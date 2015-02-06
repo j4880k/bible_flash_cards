@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html ng-app="flashcards">
 <head>
+<script type="text/javascript" src="scripts/card_data.js"></script>
 <link rel="stylesheet" type="text/css" href="bootstrap/css/bootstrap.min.css"/>
 <link rel="stylesheet" type="text/css" href="bootstrap/css/bootstrap-responsive.min.css"/>
-<script type="text/javascript" src="scripts/card_data.js"></script>
 <script type="text/javascript" src="angular/angular.min.js"></script>
 <script type="text/javascript" src="scripts/app.js"></script>
 </head>
@@ -23,11 +23,11 @@
 		   <h1 ng-if="answer != null && answer != flashcards.card.CORRECT_OPTION" class="animate-if text-error">Incorrect Answer</h1>
 	</p>
 	<p>
-		<button ng-click="flashcards.get_previous_card()">
+		<button ng-click="flashcards.get_previous_card(); answer = null;">
 		  < Previous Question
 		</button>
 		
-		<button ng-click="flashcards.get_next_card()">
+		<button ng-click="flashcards.get_next_card(); answer = null;">
 		  Next Question >
 		</button>
 	</p>

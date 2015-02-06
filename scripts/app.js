@@ -8,7 +8,7 @@
 		app.controller('CardController', function(){
 			this.deck = deck;
 			this.active_card = 0;
-			this.card = deck[this.active_card];
+			this.card = this.deck[this.active_card];
 			this.get_next_card = function() {
 				if( this.card.SEQUENCE < this.deck.length ) {
 					this.active_card = this.active_card + 1;
