@@ -30,3 +30,19 @@
 <div ng-if="flashcards.available_questions == null || flashcards.available_questions == 'undefined' || flashcards.available_questions==''" class="animate-if">
 	<p>No questions available</p>
 </div>
+<!-- <div>
+		  Select a deck of flash cards to get started:
+      <select ng-model="selectedDeck" ng-change="flashcards.update_books()">
+        <option ng-repeat="choice in flashcards.available_decks" value="{{choice.code}}">{{choice.label}}</option>
+      </select>
+	  </p>
+
+      <h3>Select available books:</h3>
+       <select id="multiBookSel" ng-model="multiBookSelected" ng-options="book.BOOK+' Ch. '+book.CHAPTER for book in flashcards.available_books" multiple>
+         <option value="">[No book]</option>
+       </select><br />
+       <br />
+	<button ng-click='flashcards.apply_configuration(); flashcards.update_quiz(multiBookSelected);'>
+	  Apply Choices
+	</button>
+</div> -->

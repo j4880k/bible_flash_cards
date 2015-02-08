@@ -84,6 +84,11 @@
 	border-bottom-left-radius: 20px;
 }
 
+select.more_bigger_select {
+	height: 400px;
+	width: 200px;
+}
+
 #nav-toggle.toggled {
 /*	background-position: 192px -57px;*/
 	background-position: 567px -272px;
