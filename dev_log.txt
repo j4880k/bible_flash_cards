@@ -1,0 +1,16 @@
+2015.02.07 : Added theme and features
+	* Bootstrap simple sidebar
+	* angular-filter
+	* added configuration screen, don't like it but it's a start
+	* refactored and moved things around the tree
+	* works in Chrome (LOL)
+
+2015.02.04 : Concept and beginning of the project.
+Things to knock out:
+	* [done] Create data model
+	* [done] Create the flash card interface (done : phase 1)
+	* [done] Create the question loop. (simple top to bottom list navigation)
+	* Establish cookie that lets us resume where we left off on a page refresh.
+	* Create reset/restart option
+	* Create game setup (choose Books/Chapters to be quizzed on, choose ordered or shuffled.)
+		- to begin with it will just be all cards in order so I can at least give the kids something. (no setup)

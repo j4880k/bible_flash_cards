@@ -1,0 +1,28 @@
+<p>
+	this is the choices partial to configure what you want to be quizzed over
+</p>
+      <!-- <p>selected deck is : {{selectedDeck}}<br /> -->
+		  <!-- chosen set is : {{flashcards.chosen_set}}<br /> -->
+		  Select a deck of flash cards : 
+      <select ng-model="selectedDeck" ng-change="flashcards.update_books()">
+        <option ng-repeat="choice in flashcards.available_decks" value="{{choice.code}}">{{choice.label}}</option>
+      </select>
+	  </p>
+      <!-- <p>selected book is : {{selectedBooks}}<br />
+		  available books are : {{flashcards.available_books}}<br />
+		  Select Books for flash cards :
+      <select ng-model="selectedBooks">
+        <option ng-repeat="book in flashcards.available_books" value="{{book.BOOK_NUMBER}}">{{book.BOOK}}</option>
+      </select>
+	  </p> -->
+
+      <h3>Select available books:</h3>
+       <label for="multiBookSel">Multiple select:</label>
+       <select id="multiBookSel" ng-model="multiBookSelected" ng-options="book.BOOK+' Ch. '+book.CHAPTER for book in flashcards.available_books" multiple>
+         <option value="">[No book]</option>
+       </select><br />
+       <br />
+       <!-- <strong>Selected books:</strong> {{multiBookSelected}}<br /> -->
+	<button ng-click='flashcards.apply_configuration(); flashcards.update_quiz(multiBookSelected);'>
+	  Apply Configuration
+	</button>

@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html ng-app="flashcards">
+<head>
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<script type="text/javascript" src="app/data/2015_bb_card_data.js"></script>
+	<script type="text/javascript" src="app/data/available_decks.js"></script>
+	<link rel="stylesheet" type="text/css" href="bootstrap/css/bootstrap.min.css"/>
+	<!-- link rel="stylesheet" type="text/css" href="bootstrap/css/bootstrap-responsive.min.css"/ -->
+	<link rel="stylesheet" type="text/css" href="app/css/simple-sidebar.css"/>
+	<script type="text/javascript" src="angular/angular.min.js"></script>
+	<script type="text/javascript" src="angular/angular-route.js"></script>
+	<script type="text/javascript" src="angular/angular-filter.js"></script>
+	<script type="text/javascript" src="jquery/jquery.js"></script>
+	<script type="text/javascript" src="bootstrap/js/ui-bootstrap-tpls-0.12.0.min.js"></script>
+	<script type="text/javascript" src="app/app.js"></script>
+	<script type="text/javascript" src="app/config/routes.js"></script>
+	<script type="text/javascript" src="app/controllers/view_controller.js"></script>
+</head>
+<body ng-controller="CardController as flashcards">
+	<div id="wrapper">
+    <!-- Sidebar -->
+    <div id="sidebar-wrapper">
+        <ul class="sidebar-nav">
+            <li class="sidebar-brand">
+                <a href="#">
+                    Flash Cards
+                </a>
+            </li>
+            <li>
+                <a href="#choices">Configuration</a>
+            </li>
+        </ul>
+    </div>
+    <!-- Page Content -->
+    <div id="page-content-wrapper" class="container">
+		<div class="greybackground" id="nav-toggle">
+			<a href="#menu-toggle" class="btngreybackground" id="menu-toggle"></a>
+		</div>
+        <div class="container-fluid" data-ng-app="flashcards_spa_content">
+            <div class="row">
+                <div class="col-lg-12">
+					<div ng-view></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- /#page-content-wrapper -->
+</div>
+    <!-- Menu Toggle Script -->
+    <script>
+    $("#menu-toggle").click(function(e) {
+        e.preventDefault();
+        $("#wrapper").toggleClass("toggled");
+		$("#nav-toggle").toggleClass("toggled");
+    });
+    </script>
+	
+	<script>
+		 angular.module('answers', [])
+		    .controller('AnswerController', ['$scope', function($scope) {
+		      $scope.answer = '';
+		    }]);
+	</script>
+</body>
+</html>
