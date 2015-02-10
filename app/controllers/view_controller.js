@@ -1,10 +1,4 @@
 app.controller('viewController', function ($scope) {
-        $scope.customers = [
-			{ name: 'Dave Jones', city: 'Phoenix' },
-			{ name: 'Jamie Riley', city: 'Atlanta' },
-			{ name: 'Heedy Wahlin', city: 'Chandler' },
-			{ name: 'Thomas Winter', city: 'Seattle' }
-        ];
-		
+	//everything removed from here so this is merely a token of the product's evolution
 		
     });
