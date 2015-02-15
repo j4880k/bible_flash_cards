@@ -25,6 +25,10 @@
 	<p class="muted">
 		(Question {{flashcards.active_card+1}} of {{flashcards.available_questions.length}} total questions)
 	</p>
+	<p>
+
+		<button ng-click="flashcards.fisher_yates_shuffle_available_questions();answer=null;flashcards.get_first_card();">Shuffle the deck</button>
+	</p>
 </p>
 </div>
 <div ng-if="flashcards.available_questions == null || flashcards.available_questions == 'undefined' || flashcards.available_questions==''" class="animate-if">

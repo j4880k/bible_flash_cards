@@ -18,11 +18,11 @@
 			this.active_card = 0;
 			this.books_to_iterate = [];
 			this.card = this.available_questions[this.active_card];
+			this.get_first_card = function(){
+				this.active_card = 0;
+				this.card = this.available_questions[this.active_card];
+			}
 			this.get_next_card = function() {
-				// if( this.card.SEQUENCE < this.deck.length ) {
-				// 	this.active_card = this.active_card + 1;
-				// 	this.card = this.deck[this.active_card];
-				// };
 				if( this.active_card < this.available_questions.length - 1 ) {
 					this.active_card = this.active_card + 1;
 					this.card = this.available_questions[this.active_card];
@@ -30,10 +30,6 @@
 				
 			};
 			this.get_previous_card = function() {
-				// if( this.card.SEQUENCE > 1 ) {
-				// 	this.active_card = this.active_card - 1;
-				// 	this.card = this.deck[this.active_card];
-				// };
 				if( this.active_card > 0 ) {
 					this.active_card = this.active_card - 1;
 					this.card = this.available_questions[this.active_card];
@@ -107,6 +103,16 @@
 				}
 				// this.available_questions.push(result);
 			}
+			
+			this.fisher_yates_shuffle_available_questions = function() {
+				for (i=this.available_questions.length-1; i>0; i--) {
+					var swap_pos_to_back = Math.floor( Math.random() * i );
+					var swap_to_front_val = this.available_questions[i];
+					this.available_questions[i] = this.available_questions[swap_pos_to_back];
+					this.available_questions[swap_pos_to_back] = swap_to_front_val;
+					this.active_card = 0;
+				};	
+			};
 			
 			this.update_quiz = function( imo ) {
 				//We are expecting an object array.
