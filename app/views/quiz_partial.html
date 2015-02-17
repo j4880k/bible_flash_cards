@@ -1,35 +1,39 @@
-<div ng-if="flashcards.available_questions != null && flashcards.available_questions != 'undefined' && flashcards.available_questions!=''" class="animate-if"><p> 
+<div ng-if="flashcards.available_questions != null && flashcards.available_questions != 'undefined' && flashcards.available_questions!=''" class="animate-if">
+	<p> 
 
 		<h3><i>{{flashcards.card.BOOK}} {{flashcards.card.CHAPTER}} : Question {{flashcards.card.QUESTION_NUMBER}}</i></h3>
 		<h2> {{flashcards.card.QUESTION}} </h2>
-		<p><h3>
-		<input type="radio" ng-model="answer" value="A"> A: {{flashcards.card.CHOICE_A}} <br/>
-		<input type="radio" ng-model="answer" value="B"> B: {{flashcards.card.CHOICE_B}} <br/>
-		<input type="radio" ng-model="answer" value="C"> C: {{flashcards.card.CHOICE_C}} <br/>
-		<input type="radio" ng-model="answer" value="D"> D: {{flashcards.card.CHOICE_D}} <br/>
-	</h3>
-	</p>
-	<p>
- 		   <h1 ng-if="answer == flashcards.card.CORRECT_OPTION" class="animate-if text-success">Correct!</h1>
-		   <h1 ng-if="answer != null && answer != flashcards.card.CORRECT_OPTION" class="animate-if text-error">Incorrect Answer</h1>
-	</p>
-	<p>
-		<button ng-click="flashcards.get_previous_card(); answer = null;">
-		  < Previous Question
-		</button>
+		<p ng-if="flashcards.available_questions != null && flashcards.available_questions != 'undefined' && flashcards.available_questions!=''" class="animate-if">
+			<h3>
+				<input ng-disabled="flashcards.enable_answer_options===false" type="radio" ng-model="answer" value="A" ng-change="flashcards.correct_option_text('A'); flashcards.toggle_options_hide('true');"> A: {{flashcards.card.CHOICE_A}} <br/>
+				<input ng-disabled="flashcards.enable_answer_options===false" type="radio" ng-model="answer" value="B" ng-change="flashcards.correct_option_text('B'); flashcards.toggle_options_hide('true');"> B: {{flashcards.card.CHOICE_B}} <br/>
+				<input ng-disabled="flashcards.enable_answer_options===false" type="radio" ng-model="answer" value="C" ng-change="flashcards.correct_option_text('C'); flashcards.toggle_options_hide('true');"> C: {{flashcards.card.CHOICE_C}} <br/>
+				<input ng-disabled="flashcards.enable_answer_options===false" type="radio" ng-model="answer" value="D" ng-change="flashcards.correct_option_text('D'); flashcards.toggle_options_hide('true');"> D: {{flashcards.card.CHOICE_D}} <br/>
+			</h3>
+		</p>
+		<p>
+	 		   <h1 ng-if="answer == flashcards.card.CORRECT_OPTION" class="animate-if text-success">Correct!</h1>
+			   <h1 ng-if="answer != null && answer != flashcards.card.CORRECT_OPTION" class="animate-if text-error">Incorrect Answer</h1>
+			   <h3 ng-if="answer != null && answer != flashcards.card.CORRECT_OPTION" class="animate-if text-error">The correct answer is:<br />{{flashcards.card.CORRECT_OPTION}} : {{flashcards.answer_text}}
+			   </h3>
+		</p>
+		<p>
+			<button ng-click="flashcards.get_previous_card(); answer = null;">
+			  < Previous Question
+			</button>
 		
-		<button ng-click="flashcards.get_next_card(); answer = null;">
-		  Next Question >
-		</button>
+			<button ng-click="flashcards.get_next_card(); answer = null;">
+			  Next Question >
+			</button>
+		</p>
+		<p class="muted">
+			(Question {{flashcards.active_card+1}} of {{flashcards.available_questions.length}} total questions)<br />
+			Your current streak is : {{flashcards.current_streak}}
+		</p>
+		<p>
+			<button ng-click="flashcards.fisher_yates_shuffle_available_questions();answer=null;flashcards.get_first_card();">Shuffle the deck</button>
+		</p>
 	</p>
-	<p class="muted">
-		(Question {{flashcards.active_card+1}} of {{flashcards.available_questions.length}} total questions)
-	</p>
-	<p>
-
-		<button ng-click="flashcards.fisher_yates_shuffle_available_questions();answer=null;flashcards.get_first_card();">Shuffle the deck</button>
-	</p>
-</p>
 </div>
 <div ng-if="flashcards.available_questions == null || flashcards.available_questions == 'undefined' || flashcards.available_questions==''" class="animate-if">
 	<h1>I'm drawing a blank...</h1><p>It doesn't look like any question sets have been chosen yet.

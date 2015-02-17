@@ -16,16 +16,23 @@
 			this.chosen_book_chapters = [];
 			this.chosen_set = "";
 			this.active_card = 0;
-			this.books_to_iterate = [];
+			this.enable_answer_options=true;
+			this.answer_text = "";
+			this.current_streak = 0;
+			// this.sets_to_iterate = [];
 			this.card = this.available_questions[this.active_card];
+			
 			this.get_first_card = function(){
 				this.active_card = 0;
 				this.card = this.available_questions[this.active_card];
-			}
+			this.enable_answer_options=true;
+			};
+			
 			this.get_next_card = function() {
 				if( this.active_card < this.available_questions.length - 1 ) {
 					this.active_card = this.active_card + 1;
 					this.card = this.available_questions[this.active_card];
+			this.enable_answer_options=true;
 				}
 				
 			};
@@ -33,8 +40,37 @@
 				if( this.active_card > 0 ) {
 					this.active_card = this.active_card - 1;
 					this.card = this.available_questions[this.active_card];
+			this.enable_answer_options=true;
 				}
 			};
+			
+			this.correct_option_text = function(selected_option) {
+				selected_option = typeof selected_option !== 'undefined' ? selected_option : null;
+				if( selected_option === this.card.CORRECT_OPTION ){
+					this.current_streak += 1;
+				} else {
+					this.current_streak = 0;
+				};
+				
+   			   	switch(this.card.CORRECT_OPTION){
+   					case "A":
+   						this.answer_text = this.card.CHOICE_A;
+						break;
+   					case "B":
+   						this.answer_text =  this.card.CHOICE_B;
+						break;
+   					case "C":
+   						this.answer_text =  this.card.CHOICE_C;
+						break;
+					case "D":
+   						this.answer_text =  this.card.CHOICE_D;
+						break;
+   					default:
+   						this.answer_text =  "undefined source selection";
+						break;
+   				}				
+			};
+			
 			this.apply_configuration = function() {
 			};
 			
@@ -61,11 +97,11 @@
 			this.tear_down_quizzes = function(){
 				this.available_questions = [];
 				this.active_card = 0;
-				
+				this.enable_answer_options = true;
+				this.current_streak = 0;
 			}
 			
 			this.add_to_quizzes = function(quizset, booknum, chapter){
-
 				console.log( "Handling: set: " + quizset + " Book Number: " + booknum + " Chapter: " + chapter );
 				//get all of the questions for this book and chapter.
 				var lookup = {};
@@ -104,14 +140,29 @@
 				// this.available_questions.push(result);
 			}
 			
+			this.toggle_options_hide = function(forced_setting) {
+				forced_setting = typeof forced_setting !== 'undefined' ? forced_setting : null;
+				// console.log("doing a toggle");
+				if( forced_setting === null) {
+					console.log("toggle getting a null");
+					this.enable_answer_options = !enable_answer_options;
+				} else {
+					console.log("toggle getting : " + forced_setting + "so we will change var to : " + !forced_setting);
+					this.enable_answer_options = !forced_setting;
+					console.log("enable_answer_options : " + this.enable_answer_options );
+				};
+				return true;
+			}
+			
 			this.fisher_yates_shuffle_available_questions = function() {
 				for (i=this.available_questions.length-1; i>0; i--) {
 					var swap_pos_to_back = Math.floor( Math.random() * i );
 					var swap_to_front_val = this.available_questions[i];
 					this.available_questions[i] = this.available_questions[swap_pos_to_back];
 					this.available_questions[swap_pos_to_back] = swap_to_front_val;
-					this.active_card = 0;
 				};	
+				this.active_card = 0;
+				this.current_streak = 0;
 			};
 			
 			this.update_quiz = function( imo ) {
