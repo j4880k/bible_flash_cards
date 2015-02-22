@@ -12,12 +12,12 @@
 			</h3>
 		</p>
 		<p>
-	 		   <h1 ng-if="$parent.answer == flashcards.card.CORRECT_OPTION" class="animate-if text-success">Correct!</h1>
+			<h3 ng-if="flashcards.card.answered===true" class"animate-if text-info">You answered this question with : {{flashcards.card.answered_value}}</h3>
+	 		   <h1 ng-if="($parent.answer == flashcards.card.CORRECT_OPTION) || (flashcards.card.answered_value == flashcards.card.CORRECT_OPTION)" class="animate-if text-success">Correct!</h1>
 			   <h1 ng-if='flashcards.answer_hint != ""' class="animate-if text-success">{{flashcards.answer_hint}}</h1>
-			   <h1 ng-if="$parent.answer != null && $parent.answer != flashcards.card.CORRECT_OPTION" class="animate-if text-error">Incorrect Answer</h1>
-			   <h3 ng-if="$parent.answer != null && $parent.answer != flashcards.card.CORRECT_OPTION" class="animate-if text-error">The correct answer is:<br />{{flashcards.card.CORRECT_OPTION}} : {{flashcards.answer_text}}
-			   </h3><br />
-			   <span ng-if="flashcards.card.answered===true" class"animate-if text-info">Answered, credit or penalty only applies to original answer.</span>
+			   <h1 ng-if="($parent.answer != null && $parent.answer != flashcards.card.CORRECT_OPTION) || ($parent.answer == null && flashcards.card.answered_value && flashcards.card.answered_value != flashcards.card.CORRECT_OPTION)" class="animate-if text-error">Incorrect Answer</h1>
+			   <h3 ng-if="($parent.answer != null && $parent.answer != flashcards.card.CORRECT_OPTION) || ($parent.answer == null && flashcards.card.answered_value &&  flashcards.card.answered_value != flashcards.card.CORRECT_OPTION)" class="animate-if text-error">The correct answer is:<br />{{flashcards.card.CORRECT_OPTION}} : {{flashcards.answer_text}}
+			   </h3>
 		</p>
 		<p>
 			<button ng-click="flashcards.get_previous_card(); $parent.answer = null;">

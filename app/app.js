@@ -36,7 +36,7 @@
 			this.chosen_book_chapters = [];
 			this.chosen_set = "";
 			this.active_card = 0;
-			this.enable_answer_options= true; //this.card && !this.card.answered;
+			this.enable_answer_options= this.card && !this.card.answered;
 			this.answer_text = "";
 			this.current_streak = 0;
 			this.correct_total = 0;
@@ -67,7 +67,7 @@
 			this.get_first_card = function(){
 				this.active_card = 0;
 				this.card = this.available_questions[this.active_card];
-				this.enable_answer_options=true; //!this.card.answered;
+				this.enable_answer_options=!this.card.answered;
 				this.answer_hint = ""; 
 				this.shown = false;
 			};
@@ -76,7 +76,7 @@
 				if( this.active_card < this.available_questions.length - 1 ) {
 					this.active_card = this.active_card + 1;
 					this.card = this.available_questions[this.active_card];
-					this.enable_answer_options=true; //!this.card.answered;
+					this.enable_answer_options=!this.card.answered;
 					this.answer_hint = "";
 					this.shown = false;
 				}
@@ -86,7 +86,7 @@
 				if( this.active_card > 0 ) {
 					this.active_card = this.active_card - 1;
 					this.card = this.available_questions[this.active_card];
-					this.enable_answer_options=true; //!this.card.answered;
+					this.enable_answer_options=!this.card.answered;
 					this.answer_hint = "";
 					this.shown = false;
 				}
@@ -99,10 +99,12 @@
 					this.current_streak += 1;
 					this.correct_total +=1;
 					this.card.answered = true;
+					this.card.answered_value = selected_option;
 				} else if (selected_option != "hint" && !this.card.answered){
 					this.current_streak = 0;
 					this.incorrect_total += 1;
 					this.card.answered = true;
+					this.card.answered_value = selected_option;
 				};
 				
    			   	switch(this.card.CORRECT_OPTION){
@@ -147,7 +149,7 @@
 			this.tear_down_quizzes = function(){
 				this.available_questions = [];
 				this.active_card = 0;
-				this.enable_answer_options = true; //this.card && !this.card.answered;
+				this.enable_answer_options = this.card && !this.card.answered;
 				this.current_streak = 0;
 				this.correct_total = 0;
 				this.incorrect_total = 0;
