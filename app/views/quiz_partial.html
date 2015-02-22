@@ -35,7 +35,7 @@
 			Total Incorrect : {{flashcards.incorrect_total}}<br />
 		</p>
 		<p>
-			<button ng-click="flashcards.fisher_yates_shuffle_available_questions();answer=null;flashcards.get_first_card();">Shuffle the deck</button>
+			<button ng-click="flashcards.fisher_yates_shuffle_available_questions();$parent.answer=null;flashcards.get_first_card();">Shuffle the deck</button>
 		</p>
 	</p>
 </div>

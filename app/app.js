@@ -5,27 +5,7 @@
 		
 		app.active_card = 0;
 		app.selected_quizzes = [];
-		app.activedeck='';
-		// app.controller('viewController', function ($scope, $document) {
-		// 	//everything removed from here so this is merely a token of the product's evolution
-		// 	// $document.bind("keypress", function(event) {
-		// 	// 		if( event.charCode === 97){
-		// 	// 			var flashcards = $scope.flashcards;
-		// 	// 			if( flashcards.card != null && flashcards.card != 'undefined'){
-		// 	// 				// $scope.flashcards.answer = flashcards.card.CORRECT_OPTION;
-		// 	// 				// $scope.answer = {};
-		// 	// 				// flashcards.correct_option_text(flashcards.card.CORRECT_OPTION);
-		// 	// 				// console.debug( $scope.answer );
-		// 	// 				// console.log("value is: " + flashcards.answer_text );
-		// 	// 				 // $scope.flashcards.answer = flashcards.card.CORRECT_OPTION;
-		// 	// 				 // $scope.answer = flashcards.card.CORRECT_OPTION;
-		// 					$scope.flashcards.show_the_answer();
-		// 	// 			}
-		// 	// 		};
-		// 	//     });
-		//     }
-		// );
-		
+		app.activedeck='';		
 		
 		app.controller('CardController', function($scope, $document){
 			this.deck = deck;
@@ -211,6 +191,7 @@
 			}
 			
 			this.fisher_yates_shuffle_available_questions = function() {
+				this.clean_available_questions();
 				for (i=this.available_questions.length-1; i>0; i--) {
 					var swap_pos_to_back = Math.floor( Math.random() * i );
 					var swap_to_front_val = this.available_questions[i];
@@ -224,6 +205,14 @@
 				this.answer_hint = "";
 				this.shown = false;
 			};
+			
+			this.clean_available_questions = function() {
+				$.map( this.available_questions, function( question ) {
+					question.answered = false;
+					question.answered_value = "";
+					console.log("Cleaned question " + question.SEQUENCE + " : " + question.QUESTION );
+				});
+			}
 			
 			this.update_quiz = function( imo ) {
 				//We are expecting an object array.
