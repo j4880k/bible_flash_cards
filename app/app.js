@@ -1,6 +1,4 @@
-//TODO : Storing data inside a controller isn't my idea of a "good idea" move it out of here when you understand AngularJS :)
-// (function ()
-	// {
+
 		var app = angular.module('flashcards', ['ngRoute','angular.filter']);
 		
 		app.active_card = 0;
@@ -21,7 +19,6 @@
 			this.current_streak = 0;
 			this.correct_total = 0;
 			this.incorrect_total = 0;
-			// this.sets_to_iterate = [];
 			this.card = this.available_questions[this.active_card];			
 			this.answer_hint = "";
 			this.shown = false;
@@ -73,7 +70,6 @@
 			};
 			
 			this.correct_option_text = function(selected_option) {
-				// console.log("setting option text for '" + selected_option + "'");
 				selected_option = typeof selected_option !== 'undefined' ? selected_option : null;
 				if( selected_option === this.card.CORRECT_OPTION && !this.card.answered){
 					this.current_streak += 1;
@@ -138,8 +134,6 @@
 			}
 			
 			this.add_to_quizzes = function(quizset, booknum, chapter){
-				// console.log( "Handling: set: " + quizset + " Book Number: " + booknum + " Chapter: " + chapter );
-				//get all of the questions for this book and chapter.
 				var lookup = {};
 				var items = this.deck;
 				var result = [];
@@ -168,24 +162,16 @@
 	  						counter++; 
 	  						this.available_questions.push(question);
 	  					}
-
-	    					// console.log( "loaded: set: " + question.CARD_SET + " Book Number: " + question.BOOK_NUMBER + " Chapter: " + question.CHAPTER + " count: " + question.QUESTION_NUMBER );
 					  }
-
 				}
-				// this.available_questions.push(result);
 			}
 			
 			this.toggle_options_hide = function(forced_setting) {
 				forced_setting = typeof forced_setting !== 'undefined' ? forced_setting : null;
-				// console.log("doing a toggle");
 				if( forced_setting === null) {
-					// console.log("toggle getting a null");
 					this.enable_answer_options = !enable_answer_options;
 				} else {
-					// console.log("toggle getting : " + forced_setting + "so we will change var to : " + !forced_setting);
 					this.enable_answer_options = !forced_setting;
-					// console.log("enable_answer_options : " + this.enable_answer_options );
 				};
 				return true;
 			}
@@ -208,17 +194,16 @@
 			
 			this.clean_available_questions = function() {
 				$.map( this.available_questions, function( question ) {
-					question.answered = false;
-					question.answered_value = "";
-					console.log("Cleaned question " + question.SEQUENCE + " : " + question.QUESTION );
+					if( question.answered === true ){
+						question.answered = false;
+						question.answered_value = "";
+					};
 				});
 			}
 			
 			this.update_quiz = function( imo ) {
-				//We are expecting an object array.
 				this.tear_down_quizzes();
 				if( imo.length >= 1 ){
-					//iterate the object array and apply the logic
 					for( i=0; i<imo.length; i++){
 						var bookitem = imo[i];
 						this.add_to_quizzes( "" + this.selected_deck, "" + bookitem.BOOK_NUMBER, "" + bookitem.CHAPTER );
@@ -230,6 +215,3 @@
 			}
 			
 		});
-
-	// }
-// )();
