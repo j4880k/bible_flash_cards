@@ -50,12 +50,12 @@
 					if( event.charCode === 97){
 						var flashcards = $scope.flashcards;
 						if( flashcards.card != null && flashcards.card != 'undefined'){
-							 flashcards.show_the_answer();
+							 flashcards.toggle_answer_hint();
 						}
 					};
 			    });
 			
-			this.show_the_answer = function(){
+			this.toggle_answer_hint = function(){
 				if( this.shown === false ){
 					this.correct_option_text("hint");
 					this.answer_hint = this.card.CORRECT_OPTION + " : " + this.answer_text;
