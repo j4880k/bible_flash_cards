@@ -6,9 +6,29 @@
 		app.active_card = 0;
 		app.selected_quizzes = [];
 		app.activedeck='';
-		app.controller('CardController', function(){
+		// app.controller('viewController', function ($scope, $document) {
+		// 	//everything removed from here so this is merely a token of the product's evolution
+		// 	// $document.bind("keypress", function(event) {
+		// 	// 		if( event.charCode === 97){
+		// 	// 			var flashcards = $scope.flashcards;
+		// 	// 			if( flashcards.card != null && flashcards.card != 'undefined'){
+		// 	// 				// $scope.flashcards.answer = flashcards.card.CORRECT_OPTION;
+		// 	// 				// $scope.answer = {};
+		// 	// 				// flashcards.correct_option_text(flashcards.card.CORRECT_OPTION);
+		// 	// 				// console.debug( $scope.answer );
+		// 	// 				// console.log("value is: " + flashcards.answer_text );
+		// 	// 				 // $scope.flashcards.answer = flashcards.card.CORRECT_OPTION;
+		// 	// 				 // $scope.answer = flashcards.card.CORRECT_OPTION;
+		// 					$scope.flashcards.show_the_answer();
+		// 	// 			}
+		// 	// 		};
+		// 	//     });
+		//     }
+		// );
+		
+		
+		app.controller('CardController', function($scope, $document){
 			this.deck = deck;
-			this.colorsArray = ["Red","Green","Lellow"];
 			this.available_books = [];
 			this.available_questions = [];
 			this.available_decks = [{"code":"LTLL-2015-BB","label":"LTLL 2015"}];
@@ -16,23 +36,49 @@
 			this.chosen_book_chapters = [];
 			this.chosen_set = "";
 			this.active_card = 0;
-			this.enable_answer_options=true;
+			this.enable_answer_options= true; //this.card && !this.card.answered;
 			this.answer_text = "";
 			this.current_streak = 0;
+			this.correct_total = 0;
+			this.incorrect_total = 0;
 			// this.sets_to_iterate = [];
-			this.card = this.available_questions[this.active_card];
+			this.card = this.available_questions[this.active_card];			
+			this.answer_hint = "";
+			this.shown = false;
+			
+			$document.bind("keypress", function(event) {
+					if( event.charCode === 97){
+						var flashcards = $scope.flashcards;
+						if( flashcards.card != null && flashcards.card != 'undefined'){
+							 flashcards.show_the_answer();
+						}
+					};
+			    });
+			
+			this.show_the_answer = function(){
+				if( this.shown === false ){
+					this.correct_option_text("hint");
+					this.answer_hint = this.card.CORRECT_OPTION + " : " + this.answer_text;
+					this.shown = true;
+					$scope.$apply();					
+				};
+			};
 			
 			this.get_first_card = function(){
 				this.active_card = 0;
 				this.card = this.available_questions[this.active_card];
-			this.enable_answer_options=true;
+				this.enable_answer_options=true; //!this.card.answered;
+				this.answer_hint = ""; 
+				this.shown = false;
 			};
 			
 			this.get_next_card = function() {
 				if( this.active_card < this.available_questions.length - 1 ) {
 					this.active_card = this.active_card + 1;
 					this.card = this.available_questions[this.active_card];
-			this.enable_answer_options=true;
+					this.enable_answer_options=true; //!this.card.answered;
+					this.answer_hint = "";
+					this.shown = false;
 				}
 				
 			};
@@ -40,16 +86,23 @@
 				if( this.active_card > 0 ) {
 					this.active_card = this.active_card - 1;
 					this.card = this.available_questions[this.active_card];
-			this.enable_answer_options=true;
+					this.enable_answer_options=true; //!this.card.answered;
+					this.answer_hint = "";
+					this.shown = false;
 				}
 			};
 			
 			this.correct_option_text = function(selected_option) {
+				// console.log("setting option text for '" + selected_option + "'");
 				selected_option = typeof selected_option !== 'undefined' ? selected_option : null;
-				if( selected_option === this.card.CORRECT_OPTION ){
+				if( selected_option === this.card.CORRECT_OPTION && !this.card.answered){
 					this.current_streak += 1;
-				} else {
+					this.correct_total +=1;
+					this.card.answered = true;
+				} else if (selected_option != "hint" && !this.card.answered){
 					this.current_streak = 0;
+					this.incorrect_total += 1;
+					this.card.answered = true;
 				};
 				
    			   	switch(this.card.CORRECT_OPTION){
@@ -69,9 +122,6 @@
    						this.answer_text =  "undefined source selection";
 						break;
    				}				
-			};
-			
-			this.apply_configuration = function() {
 			};
 			
 			this.update_books = function() {
@@ -97,12 +147,16 @@
 			this.tear_down_quizzes = function(){
 				this.available_questions = [];
 				this.active_card = 0;
-				this.enable_answer_options = true;
+				this.enable_answer_options = true; //this.card && !this.card.answered;
 				this.current_streak = 0;
+				this.correct_total = 0;
+				this.incorrect_total = 0;
+				this.answer_hint = "";
+				this.shown = false;
 			}
 			
 			this.add_to_quizzes = function(quizset, booknum, chapter){
-				console.log( "Handling: set: " + quizset + " Book Number: " + booknum + " Chapter: " + chapter );
+				// console.log( "Handling: set: " + quizset + " Book Number: " + booknum + " Chapter: " + chapter );
 				//get all of the questions for this book and chapter.
 				var lookup = {};
 				var items = this.deck;
@@ -133,7 +187,7 @@
 	  						this.available_questions.push(question);
 	  					}
 
-	    					console.log( "loaded: set: " + question.CARD_SET + " Book Number: " + question.BOOK_NUMBER + " Chapter: " + question.CHAPTER + " count: " + question.QUESTION_NUMBER );					  	
+	    					// console.log( "loaded: set: " + question.CARD_SET + " Book Number: " + question.BOOK_NUMBER + " Chapter: " + question.CHAPTER + " count: " + question.QUESTION_NUMBER );
 					  }
 
 				}
@@ -144,12 +198,12 @@
 				forced_setting = typeof forced_setting !== 'undefined' ? forced_setting : null;
 				// console.log("doing a toggle");
 				if( forced_setting === null) {
-					console.log("toggle getting a null");
+					// console.log("toggle getting a null");
 					this.enable_answer_options = !enable_answer_options;
 				} else {
-					console.log("toggle getting : " + forced_setting + "so we will change var to : " + !forced_setting);
+					// console.log("toggle getting : " + forced_setting + "so we will change var to : " + !forced_setting);
 					this.enable_answer_options = !forced_setting;
-					console.log("enable_answer_options : " + this.enable_answer_options );
+					// console.log("enable_answer_options : " + this.enable_answer_options );
 				};
 				return true;
 			}
@@ -163,6 +217,10 @@
 				};	
 				this.active_card = 0;
 				this.current_streak = 0;
+				this.correct_total = 0;
+				this.incorrect_total = 0;
+				this.answer_hint = "";
+				this.shown = false;
 			};
 			
 			this.update_quiz = function( imo ) {
