@@ -23,14 +23,24 @@
 			this.answer_hint = "";
 			this.shown = false;
 			
-			$document.bind("keypress", function(event) {
-					if( event.charCode === 97){
-						var flashcards = $scope.flashcards;
-						if( flashcards.card != null && flashcards.card != 'undefined'){
-							 flashcards.toggle_answer_hint();
-						}
-					};
-			    });
+			Mousetrap.bind('?', function(e) {
+				var flashcards = $scope.flashcards;
+				if( flashcards.card != null && flashcards.card != 'undefined'){
+					 flashcards.toggle_answer_hint();
+				}
+			});
+			
+			Mousetrap.bind('.', function(e){ 
+				$scope.answer = null;
+				$scope.flashcards.get_next_card();
+				$scope.$apply();
+			});
+			
+			Mousetrap.bind(',', function(e){ 
+				$scope.answer = null;
+				$scope.flashcards.get_previous_card();
+				$scope.$apply();
+			});
 			
 			this.toggle_answer_hint = function(){
 				if( this.shown === false ){
@@ -38,6 +48,10 @@
 					this.answer_hint = this.card.CORRECT_OPTION + " : " + this.answer_text;
 					this.shown = true;
 					$scope.$apply();					
+				} else {
+					this.answer_hint="";
+					this.shown=false;
+					$scope.$apply();
 				};
 			};
 			
