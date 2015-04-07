@@ -9,8 +9,8 @@
 			this.deck = deck;
 			this.available_books = [];
 			this.available_questions = [];
-			this.available_decks = [{"code":"LTLL-2015-BB","label":"LTLL 2015"}];
-			this.selected_deck = "LTLL-2015-BB";
+			this.available_decks = [{"code":"LTLL-2016-BB","label":"LTLL 2016"}];
+			this.selected_deck = "LTLL-2016-BB";
 			this.chosen_book_chapters = [];
 			this.chosen_set = "";
 			this.active_card = 0;
@@ -23,6 +23,7 @@
 			this.answer_hint = "";
 			this.shown = false;
 			
+			// mousetrap for key bindings 
 			Mousetrap.bind('?', function(e) {
 				var flashcards = $scope.flashcards;
 				if( flashcards.card != null && flashcards.card != 'undefined'){
@@ -41,6 +42,45 @@
 				$scope.flashcards.get_previous_card();
 				$scope.$apply();
 			});
+			
+			/* Localstorage for high scores 
+				TODO:vars are hanging out here until I like the implementation
+					then will get moved up to the top
+			
+				available params:
+					this.current_streak = 0;
+					this.correct_total = 0;
+					this.incorrect_total = 0;
+			 */
+			this.current_pct = function(){
+					return this.correct_total/(this.correct_total + this.incorrect_total)*100
+			}
+			
+			this.local_score_save = function() {
+			
+		  	  if(typeof(Storage)!=="undefined")
+		  	    {
+					local_storage_support = true;
+			  	    if (localStorage.clickcount)
+			  	      {
+			  	      localStorage.clickcount=Number(localStorage.clickcount)+1;
+			  	      }
+			  	    else
+			  	      {
+			  	      localStorage.clickcount=1;
+			  	      }
+		  	    }
+		  	  else
+		  	    {
+		  	    	local_storage_support = false;
+		  	    }
+
+			}
+			
+			this.local_store_reset = function (){
+				
+			}
+			
 			
 			this.toggle_answer_hint = function(){
 				if( this.shown === false ){

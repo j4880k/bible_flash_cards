@@ -22,5 +22,5 @@ Things to knock out:
 	* [done] Create the question loop. (simple top to bottom list navigation)
 	* Establish cookie that lets us resume where we left off on a page refresh.
 	* Create reset/restart option
-	* Create game setup (choose Books/Chapters to be quizzed on, choose ordered or shuffled.)
+	* [done] Create game setup (choose Books/Chapters to be quizzed on, choose ordered or shuffled.)
 		- to begin with it will just be all cards in order so I can at least give the kids something. (no setup)
