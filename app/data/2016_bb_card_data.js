@@ -1,7 +1,7 @@
 var deck = 
 [
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":1,
     "QUESTION_NUMBER":1,
@@ -16,7 +16,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":1,
     "QUESTION_NUMBER":2,
@@ -31,7 +31,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":1,
     "QUESTION_NUMBER":3,
@@ -46,14 +46,14 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":1,
     "QUESTION_NUMBER":4,
     "SEQUENCE":4,
     "BCQ_KEY":"40-01-04",
     "CORRECT_OPTION":"B",
-    "QUESTION":"Which of Jacob’s sons is mentioned in the genealogy of Jesus? (1:3)",
+    "QUESTION":"Which of Jacob's sons is mentioned in the genealogy of Jesus? (1:3)",
     "CHOICE_A":"Reuben",
     "CHOICE_B":"Judah",
     "CHOICE_C":"Joseph",
@@ -61,7 +61,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":1,
     "QUESTION_NUMBER":5,
@@ -76,7 +76,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":1,
     "QUESTION_NUMBER":6,
@@ -91,7 +91,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":1,
     "QUESTION_NUMBER":7,
@@ -106,7 +106,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":1,
     "QUESTION_NUMBER":8,
@@ -121,7 +121,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":1,
     "QUESTION_NUMBER":9,
@@ -136,7 +136,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":1,
     "QUESTION_NUMBER":10,
@@ -151,7 +151,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":1,
     "QUESTION_NUMBER":11,
@@ -166,7 +166,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":1,
     "QUESTION_NUMBER":12,
@@ -181,7 +181,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":1,
     "QUESTION_NUMBER":13,
@@ -196,7 +196,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":1,
     "QUESTION_NUMBER":14,
@@ -211,7 +211,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":1,
     "QUESTION_NUMBER":15,
@@ -226,7 +226,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":1,
     "QUESTION_NUMBER":16,
@@ -241,7 +241,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":1,
     "QUESTION_NUMBER":17,
@@ -256,7 +256,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":1,
     "QUESTION_NUMBER":18,
@@ -271,7 +271,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":1,
     "QUESTION_NUMBER":19,
@@ -286,7 +286,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":1,
     "QUESTION_NUMBER":20,
@@ -301,7 +301,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":1,
     "QUESTION_NUMBER":21,
@@ -316,7 +316,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":1,
     "QUESTION_NUMBER":22,
@@ -331,7 +331,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":1,
     "QUESTION_NUMBER":23,
@@ -346,7 +346,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":1,
     "QUESTION_NUMBER":24,
@@ -361,7 +361,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":1,
     "QUESTION_NUMBER":25,
@@ -376,7 +376,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":1,
     "QUESTION_NUMBER":26,
@@ -391,7 +391,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":1,
     "QUESTION_NUMBER":27,
@@ -406,7 +406,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":1,
     "QUESTION_NUMBER":28,
@@ -421,14 +421,14 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":1,
     "QUESTION_NUMBER":29,
     "SEQUENCE":29,
     "BCQ_KEY":"40-01-29",
     "CORRECT_OPTION":"C",
-    "QUESTION":"After Mary’s son was born, what did he name Him? (1:25)",
+    "QUESTION":"After Mary's son was born, what did he name Him? (1:25)",
     "CHOICE_A":"Jacob",
     "CHOICE_B":"Joseph, Jr.",
     "CHOICE_C":"Jesus",
@@ -436,7 +436,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":2,
     "QUESTION_NUMBER":1,
@@ -451,7 +451,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":2,
     "QUESTION_NUMBER":2,
@@ -466,7 +466,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":2,
     "QUESTION_NUMBER":3,
@@ -476,12 +476,12 @@ var deck =
     "QUESTION":"How many wise men went to visit Jesus? (2:1)",
     "CHOICE_A":"One",
     "CHOICE_B":"Three",
-    "CHOICE_C":"The Bible doesn’t say",
+    "CHOICE_C":"The Bible doesn't say",
     "CHOICE_D":"Ten",
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":2,
     "QUESTION_NUMBER":4,
@@ -496,14 +496,14 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":2,
     "QUESTION_NUMBER":5,
     "SEQUENCE":34,
     "BCQ_KEY":"40-02-05",
     "CORRECT_OPTION":"D",
-    "QUESTION":"How did Herod feel when he heard of Jesus’ birth? (2:3)",
+    "QUESTION":"How did Herod feel when he heard of Jesus' birth? (2:3)",
     "CHOICE_A":"Happy",
     "CHOICE_B":"Angry",
     "CHOICE_C":"Sad",
@@ -511,7 +511,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":2,
     "QUESTION_NUMBER":6,
@@ -526,7 +526,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":2,
     "QUESTION_NUMBER":7,
@@ -537,11 +537,11 @@ var deck =
     "CHOICE_A":"It was revealed to them in a dream",
     "CHOICE_B":"It was written by the prophet",
     "CHOICE_C":"They saw a vision",
-    "CHOICE_D":"They really didn’t know",
+    "CHOICE_D":"They really didn't know",
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":2,
     "QUESTION_NUMBER":8,
@@ -556,7 +556,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":2,
     "QUESTION_NUMBER":9,
@@ -571,7 +571,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":2,
     "QUESTION_NUMBER":10,
@@ -586,7 +586,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":2,
     "QUESTION_NUMBER":11,
@@ -601,7 +601,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":2,
     "QUESTION_NUMBER":12,
@@ -616,7 +616,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":2,
     "QUESTION_NUMBER":13,
@@ -631,7 +631,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":2,
     "QUESTION_NUMBER":14,
@@ -646,7 +646,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":2,
     "QUESTION_NUMBER":15,
@@ -661,7 +661,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":2,
     "QUESTION_NUMBER":16,
@@ -676,7 +676,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":2,
     "QUESTION_NUMBER":17,
@@ -691,7 +691,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":2,
     "QUESTION_NUMBER":18,
@@ -706,7 +706,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":2,
     "QUESTION_NUMBER":19,
@@ -721,7 +721,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":2,
     "QUESTION_NUMBER":20,
@@ -736,7 +736,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":2,
     "QUESTION_NUMBER":21,
@@ -751,7 +751,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":2,
     "QUESTION_NUMBER":22,
@@ -766,7 +766,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":2,
     "QUESTION_NUMBER":23,
@@ -781,7 +781,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":2,
     "QUESTION_NUMBER":24,
@@ -796,7 +796,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":2,
     "QUESTION_NUMBER":25,
@@ -804,14 +804,14 @@ var deck =
     "BCQ_KEY":"40-02-25",
     "CORRECT_OPTION":"D",
     "QUESTION":"Whose voice was heard in Ramah? (2:18)",
-    "CHOICE_A":"Joseph’s",
-    "CHOICE_B":"The blind man’s",
-    "CHOICE_C":"The Lord’s",
-    "CHOICE_D":"Rachel’s",
+    "CHOICE_A":"Joseph's",
+    "CHOICE_B":"The blind man's",
+    "CHOICE_C":"The Lord's",
+    "CHOICE_D":"Rachel's",
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":2,
     "QUESTION_NUMBER":26,
@@ -826,14 +826,14 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":2,
     "QUESTION_NUMBER":27,
     "SEQUENCE":56,
     "BCQ_KEY":"40-02-27",
     "CORRECT_OPTION":"C",
-    "QUESTION":"After Herod’s death, where did Joseph take Mary and Jesus? (2:21)",
+    "QUESTION":"After Herod's death, where did Joseph take Mary and Jesus? (2:21)",
     "CHOICE_A":"To Galilee",
     "CHOICE_B":"To Bethlehem",
     "CHOICE_C":"Into the land of Israel",
@@ -841,7 +841,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":2,
     "QUESTION_NUMBER":28,
@@ -856,7 +856,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":2,
     "QUESTION_NUMBER":29,
@@ -871,7 +871,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":2,
     "QUESTION_NUMBER":30,
@@ -886,7 +886,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":2,
     "QUESTION_NUMBER":31,
@@ -901,7 +901,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":3,
     "QUESTION_NUMBER":1,
@@ -916,7 +916,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":3,
     "QUESTION_NUMBER":2,
@@ -931,7 +931,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":3,
     "QUESTION_NUMBER":3,
@@ -946,7 +946,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":3,
     "QUESTION_NUMBER":4,
@@ -961,29 +961,29 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":3,
     "QUESTION_NUMBER":5,
     "SEQUENCE":65,
     "BCQ_KEY":"40-03-05",
     "CORRECT_OPTION":"C",
-    "QUESTION":"What was John’s garment made of? (3:4)",
+    "QUESTION":"What was John's garment made of? (3:4)",
     "CHOICE_A":"Silk",
     "CHOICE_B":"Wool",
-    "CHOICE_C":"Camel’s hair",
+    "CHOICE_C":"Camel's hair",
     "CHOICE_D":"Animal skin",
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":3,
     "QUESTION_NUMBER":6,
     "SEQUENCE":66,
     "BCQ_KEY":"40-03-06",
     "CORRECT_OPTION":"A",
-    "QUESTION":"What kind of belt was around John’s waist? (3:4)",
+    "QUESTION":"What kind of belt was around John's waist? (3:4)",
     "CHOICE_A":"Leather",
     "CHOICE_B":"Rope",
     "CHOICE_C":"Chain",
@@ -991,7 +991,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":3,
     "QUESTION_NUMBER":7,
@@ -1006,7 +1006,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":3,
     "QUESTION_NUMBER":8,
@@ -1021,7 +1021,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":3,
     "QUESTION_NUMBER":9,
@@ -1036,7 +1036,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":3,
     "QUESTION_NUMBER":10,
@@ -1051,7 +1051,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":3,
     "QUESTION_NUMBER":11,
@@ -1066,7 +1066,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":3,
     "QUESTION_NUMBER":12,
@@ -1081,7 +1081,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":3,
     "QUESTION_NUMBER":13,
@@ -1096,7 +1096,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":3,
     "QUESTION_NUMBER":14,
@@ -1111,7 +1111,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":3,
     "QUESTION_NUMBER":15,
@@ -1126,7 +1126,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":3,
     "QUESTION_NUMBER":16,
@@ -1141,7 +1141,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":3,
     "QUESTION_NUMBER":17,
@@ -1156,7 +1156,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":3,
     "QUESTION_NUMBER":18,
@@ -1171,7 +1171,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":3,
     "QUESTION_NUMBER":19,
@@ -1186,7 +1186,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":3,
     "QUESTION_NUMBER":20,
@@ -1201,7 +1201,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":3,
     "QUESTION_NUMBER":21,
@@ -1216,7 +1216,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":3,
     "QUESTION_NUMBER":22,
@@ -1231,7 +1231,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":4,
     "QUESTION_NUMBER":1,
@@ -1246,7 +1246,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":4,
     "QUESTION_NUMBER":2,
@@ -1261,7 +1261,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":4,
     "QUESTION_NUMBER":3,
@@ -1276,7 +1276,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":4,
     "QUESTION_NUMBER":4,
@@ -1291,7 +1291,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":4,
     "QUESTION_NUMBER":5,
@@ -1306,7 +1306,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":4,
     "QUESTION_NUMBER":6,
@@ -1321,7 +1321,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":4,
     "QUESTION_NUMBER":7,
@@ -1336,7 +1336,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":4,
     "QUESTION_NUMBER":8,
@@ -1351,7 +1351,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":4,
     "QUESTION_NUMBER":9,
@@ -1366,7 +1366,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":4,
     "QUESTION_NUMBER":10,
@@ -1381,7 +1381,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":4,
     "QUESTION_NUMBER":11,
@@ -1396,7 +1396,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":4,
     "QUESTION_NUMBER":12,
@@ -1411,7 +1411,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":4,
     "QUESTION_NUMBER":13,
@@ -1426,7 +1426,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":4,
     "QUESTION_NUMBER":14,
@@ -1441,7 +1441,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":4,
     "QUESTION_NUMBER":15,
@@ -1456,7 +1456,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":4,
     "QUESTION_NUMBER":16,
@@ -1471,14 +1471,14 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":4,
     "QUESTION_NUMBER":17,
     "SEQUENCE":99,
     "BCQ_KEY":"40-04-17",
     "CORRECT_OPTION":"D",
-    "QUESTION":"How long after Jesus told them to “Follow Me”, did Peter and Andrew leave their nets to follow Him? (4:20)",
+    "QUESTION":"How long after Jesus told them to 'Follow Me', did Peter and Andrew leave their nets to follow Him? (4:20)",
     "CHOICE_A":"A couple of days later",
     "CHOICE_B":"After they mended their nets",
     "CHOICE_C":"After they caught a few more fish",
@@ -1486,7 +1486,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":4,
     "QUESTION_NUMBER":18,
@@ -1501,7 +1501,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":4,
     "QUESTION_NUMBER":19,
@@ -1516,7 +1516,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":4,
     "QUESTION_NUMBER":20,
@@ -1531,7 +1531,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":5,
     "QUESTION_NUMBER":1,
@@ -1546,7 +1546,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":5,
     "QUESTION_NUMBER":2,
@@ -1561,7 +1561,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":5,
     "QUESTION_NUMBER":3,
@@ -1576,7 +1576,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":5,
     "QUESTION_NUMBER":4,
@@ -1591,7 +1591,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":5,
     "QUESTION_NUMBER":5,
@@ -1606,7 +1606,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":5,
     "QUESTION_NUMBER":6,
@@ -1621,7 +1621,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":5,
     "QUESTION_NUMBER":7,
@@ -1636,7 +1636,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":5,
     "QUESTION_NUMBER":8,
@@ -1646,19 +1646,19 @@ var deck =
     "QUESTION":"Who will have the kingdom of heaven? (5:10)",
     "CHOICE_A":"Those who have been good",
     "CHOICE_B":"Those who have worked hard",
-    "CHOICE_C":"Those who have been persecuted for righteousness’ sake",
+    "CHOICE_C":"Those who have been persecuted for righteousness' sake",
     "CHOICE_D":"Those who have died",
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":5,
     "QUESTION_NUMBER":9,
     "SEQUENCE":111,
     "BCQ_KEY":"40-05-09",
     "CORRECT_OPTION":"A",
-    "QUESTION":"Why should you rejoice when men “revile and persecute you, and say all kinds of evil against you falsely” for Jesus’ sake? (5:11-12)",
+    "QUESTION":"Why should you rejoice when men 'revile and persecute you, and say all kinds of evil against you falsely' for Jesus' sake? (5:11-12)",
     "CHOICE_A":"For great is your reward in heaven",
     "CHOICE_B":"You will get the last laugh",
     "CHOICE_C":"God will punish them",
@@ -1666,7 +1666,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":5,
     "QUESTION_NUMBER":10,
@@ -1681,7 +1681,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":5,
     "QUESTION_NUMBER":11,
@@ -1696,7 +1696,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":5,
     "QUESTION_NUMBER":12,
@@ -1711,7 +1711,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":5,
     "QUESTION_NUMBER":13,
@@ -1726,7 +1726,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":5,
     "QUESTION_NUMBER":14,
@@ -1741,7 +1741,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":5,
     "QUESTION_NUMBER":15,
@@ -1749,14 +1749,14 @@ var deck =
     "BCQ_KEY":"40-05-15",
     "CORRECT_OPTION":"D",
     "QUESTION":"What will those who do and teach the commands of the Law be called? (5:19)",
-    "CHOICE_A":"God’s children",
+    "CHOICE_A":"God's children",
     "CHOICE_B":"Followers of Christ",
     "CHOICE_C":"Children of God",
     "CHOICE_D":"Great in the kingdom of heaven",
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":5,
     "QUESTION_NUMBER":16,
@@ -1771,7 +1771,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":5,
     "QUESTION_NUMBER":17,
@@ -1780,13 +1780,13 @@ var deck =
     "CORRECT_OPTION":"C",
     "QUESTION":"What was said to those of old? (5:21)",
     "CHOICE_A":"Whoever is angry with his brother without a cause",
-    "CHOICE_B":"Whoever says “Raca” to his brother",
+    "CHOICE_B":"Whoever says 'Raca' to his brother",
     "CHOICE_C":"Whoever murders will be in danger of the judgment",
     "CHOICE_D":"Whosoever shall curse his brother",
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":5,
     "QUESTION_NUMBER":18,
@@ -1801,7 +1801,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":5,
     "QUESTION_NUMBER":19,
@@ -1816,7 +1816,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":5,
     "QUESTION_NUMBER":20,
@@ -1831,7 +1831,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":5,
     "QUESTION_NUMBER":21,
@@ -1846,7 +1846,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":5,
     "QUESTION_NUMBER":22,
@@ -1861,7 +1861,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":5,
     "QUESTION_NUMBER":23,
@@ -1876,7 +1876,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":5,
     "QUESTION_NUMBER":24,
@@ -1891,7 +1891,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":6,
     "QUESTION_NUMBER":1,
@@ -1906,7 +1906,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":6,
     "QUESTION_NUMBER":2,
@@ -1921,7 +1921,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":6,
     "QUESTION_NUMBER":3,
@@ -1936,7 +1936,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":6,
     "QUESTION_NUMBER":4,
@@ -1951,14 +1951,14 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":6,
     "QUESTION_NUMBER":5,
     "SEQUENCE":131,
     "BCQ_KEY":"40-06-05",
     "CORRECT_OPTION":"C",
-    "QUESTION":"Where are Christ’s followers told to pray? (6:6)",
+    "QUESTION":"Where are Christ's followers told to pray? (6:6)",
     "CHOICE_A":"In church",
     "CHOICE_B":"Everywhere they go",
     "CHOICE_C":"In your room with the door closed",
@@ -1966,14 +1966,14 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":6,
     "QUESTION_NUMBER":6,
     "SEQUENCE":132,
     "BCQ_KEY":"40-06-06",
     "CORRECT_OPTION":"A",
-    "QUESTION":"Why were Christ’s followers told not to use “vain repetitions?” (6:7-8)",
+    "QUESTION":"Why were Christ's followers told not to use 'vain repetitions?' (6:7-8)",
     "CHOICE_A":"Your Father knows the things you have need of",
     "CHOICE_B":"Your Father does not need to be reminded",
     "CHOICE_C":"You burden God",
@@ -1981,22 +1981,22 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":6,
     "QUESTION_NUMBER":7,
     "SEQUENCE":133,
     "BCQ_KEY":"40-06-07",
     "CORRECT_OPTION":"C",
-    "QUESTION":"What were Christ’s followers told to do when they fasted? (6:17)",
-    "CHOICE_A":"Wash each other’s feet and wash their own faces",
+    "QUESTION":"What were Christ's followers told to do when they fasted? (6:17)",
+    "CHOICE_A":"Wash each other's feet and wash their own faces",
     "CHOICE_B":"Wash their faces and hands",
     "CHOICE_C":"Anoint their heads and wash their faces",
     "CHOICE_D":"Put oil on their hands and faces",
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":6,
     "QUESTION_NUMBER":8,
@@ -2011,7 +2011,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":6,
     "QUESTION_NUMBER":9,
@@ -2026,7 +2026,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":6,
     "QUESTION_NUMBER":10,
@@ -2041,7 +2041,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":6,
     "QUESTION_NUMBER":11,
@@ -2056,7 +2056,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":6,
     "QUESTION_NUMBER":12,
@@ -2071,7 +2071,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":6,
     "QUESTION_NUMBER":13,
@@ -2086,7 +2086,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":6,
     "QUESTION_NUMBER":14,
@@ -2101,7 +2101,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":6,
     "QUESTION_NUMBER":15,
@@ -2116,7 +2116,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":6,
     "QUESTION_NUMBER":16,
@@ -2131,7 +2131,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":6,
     "QUESTION_NUMBER":17,
@@ -2146,7 +2146,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":6,
     "QUESTION_NUMBER":18,
@@ -2161,7 +2161,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":6,
     "QUESTION_NUMBER":19,
@@ -2176,7 +2176,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":7,
     "QUESTION_NUMBER":1,
@@ -2191,7 +2191,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":7,
     "QUESTION_NUMBER":2,
@@ -2206,7 +2206,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":7,
     "QUESTION_NUMBER":3,
@@ -2221,7 +2221,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":7,
     "QUESTION_NUMBER":4,
@@ -2236,7 +2236,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":7,
     "QUESTION_NUMBER":5,
@@ -2251,7 +2251,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":7,
     "QUESTION_NUMBER":6,
@@ -2266,7 +2266,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":7,
     "QUESTION_NUMBER":7,
@@ -2281,7 +2281,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":7,
     "QUESTION_NUMBER":8,
@@ -2296,7 +2296,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":7,
     "QUESTION_NUMBER":9,
@@ -2311,7 +2311,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":7,
     "QUESTION_NUMBER":10,
@@ -2326,7 +2326,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":7,
     "QUESTION_NUMBER":11,
@@ -2335,13 +2335,13 @@ var deck =
     "CORRECT_OPTION":"C",
     "QUESTION":"What kind of clothing do false prophets wear? (7:15)",
     "CHOICE_A":"Clothing of true prophets ",
-    "CHOICE_B":"Wolves’ clothing",
-    "CHOICE_C":"Sheep’s clothing",
+    "CHOICE_B":"Wolves' clothing",
+    "CHOICE_C":"Sheep's clothing",
     "CHOICE_D":"Clothing of teachers",
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":7,
     "QUESTION_NUMBER":12,
@@ -2356,7 +2356,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":7,
     "QUESTION_NUMBER":13,
@@ -2371,7 +2371,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":7,
     "QUESTION_NUMBER":14,
@@ -2386,7 +2386,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":7,
     "QUESTION_NUMBER":15,
@@ -2401,7 +2401,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":7,
     "QUESTION_NUMBER":16,
@@ -2409,14 +2409,14 @@ var deck =
     "BCQ_KEY":"40-07-16",
     "CORRECT_OPTION":"B",
     "QUESTION":"Who did Jesus say would enter the kingdom of heaven? (7:21)",
-    "CHOICE_A":"Those who call Jesus, “Lord, Lord”",
+    "CHOICE_A":"Those who call Jesus, 'Lord, Lord'",
     "CHOICE_B":"Those who do the will of My Father in heaven",
     "CHOICE_C":"Those who fast, pray, and give alms",
     "CHOICE_D":"Those who obey the Law and the Prophets",
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":7,
     "QUESTION_NUMBER":17,
@@ -2431,7 +2431,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":7,
     "QUESTION_NUMBER":18,
@@ -2446,7 +2446,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":7,
     "QUESTION_NUMBER":19,
@@ -2461,7 +2461,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":7,
     "QUESTION_NUMBER":20,
@@ -2476,7 +2476,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":7,
     "QUESTION_NUMBER":21,
@@ -2491,14 +2491,14 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":8,
     "QUESTION_NUMBER":1,
     "SEQUENCE":167,
     "BCQ_KEY":"40-08-01",
     "CORRECT_OPTION":"C",
-    "QUESTION":"Who said, “Lord, if You are willing, You can make me clean?” (8:2)",
+    "QUESTION":"Who said, 'Lord, if You are willing, You can make me clean?' (8:2)",
     "CHOICE_A":"A paralytic",
     "CHOICE_B":"A blind man",
     "CHOICE_C":"A leper",
@@ -2506,7 +2506,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":8,
     "QUESTION_NUMBER":2,
@@ -2521,7 +2521,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":8,
     "QUESTION_NUMBER":3,
@@ -2536,7 +2536,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":8,
     "QUESTION_NUMBER":4,
@@ -2551,7 +2551,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":8,
     "QUESTION_NUMBER":5,
@@ -2566,7 +2566,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":8,
     "QUESTION_NUMBER":6,
@@ -2581,7 +2581,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":8,
     "QUESTION_NUMBER":7,
@@ -2596,7 +2596,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":8,
     "QUESTION_NUMBER":8,
@@ -2611,7 +2611,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":8,
     "QUESTION_NUMBER":9,
@@ -2626,7 +2626,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":8,
     "QUESTION_NUMBER":10,
@@ -2636,12 +2636,12 @@ var deck =
     "QUESTION":"Where did Jesus see the mother-in-law of Peter? (8:14)",
     "CHOICE_A":"Her house",
     "CHOICE_B":"The temple",
-    "CHOICE_C":"Peter’s house",
+    "CHOICE_C":"Peter's house",
     "CHOICE_D":"Jerusalem",
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":8,
     "QUESTION_NUMBER":11,
@@ -2656,7 +2656,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":8,
     "QUESTION_NUMBER":12,
@@ -2671,7 +2671,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":8,
     "QUESTION_NUMBER":13,
@@ -2686,7 +2686,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":8,
     "QUESTION_NUMBER":14,
@@ -2701,7 +2701,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":8,
     "QUESTION_NUMBER":15,
@@ -2716,7 +2716,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":8,
     "QUESTION_NUMBER":16,
@@ -2731,7 +2731,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":8,
     "QUESTION_NUMBER":17,
@@ -2746,7 +2746,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":8,
     "QUESTION_NUMBER":18,
@@ -2761,7 +2761,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":8,
     "QUESTION_NUMBER":19,
@@ -2776,7 +2776,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":8,
     "QUESTION_NUMBER":20,
@@ -2791,7 +2791,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":8,
     "QUESTION_NUMBER":21,
@@ -2806,7 +2806,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":8,
     "QUESTION_NUMBER":22,
@@ -2821,7 +2821,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":9,
     "QUESTION_NUMBER":1,
@@ -2836,7 +2836,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":9,
     "QUESTION_NUMBER":2,
@@ -2851,7 +2851,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":9,
     "QUESTION_NUMBER":3,
@@ -2866,7 +2866,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":9,
     "QUESTION_NUMBER":4,
@@ -2881,7 +2881,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":9,
     "QUESTION_NUMBER":5,
@@ -2896,7 +2896,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":9,
     "QUESTION_NUMBER":6,
@@ -2911,7 +2911,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":9,
     "QUESTION_NUMBER":7,
@@ -2926,7 +2926,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":9,
     "QUESTION_NUMBER":8,
@@ -2941,7 +2941,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":9,
     "QUESTION_NUMBER":9,
@@ -2956,7 +2956,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":9,
     "QUESTION_NUMBER":10,
@@ -2971,7 +2971,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":9,
     "QUESTION_NUMBER":11,
@@ -2986,7 +2986,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":9,
     "QUESTION_NUMBER":12,
@@ -3001,7 +3001,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":9,
     "QUESTION_NUMBER":13,
@@ -3016,7 +3016,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":9,
     "QUESTION_NUMBER":14,
@@ -3031,7 +3031,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":9,
     "QUESTION_NUMBER":15,
@@ -3046,7 +3046,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":9,
     "QUESTION_NUMBER":16,
@@ -3061,7 +3061,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":9,
     "QUESTION_NUMBER":17,
@@ -3076,7 +3076,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":9,
     "QUESTION_NUMBER":18,
@@ -3091,7 +3091,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":9,
     "QUESTION_NUMBER":19,
@@ -3106,14 +3106,14 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":9,
     "QUESTION_NUMBER":20,
     "SEQUENCE":208,
     "BCQ_KEY":"40-09-20",
     "CORRECT_OPTION":"A",
-    "QUESTION":"What did the blind men do when Jesus told them to “See that no one knows ” about their healing? (9:31)",
+    "QUESTION":"What did the blind men do when Jesus told them to 'See that no one knows ' about their healing? (9:31)",
     "CHOICE_A":"Spread the news about Jesus",
     "CHOICE_B":"Told no one",
     "CHOICE_C":"Told only their families",
@@ -3121,14 +3121,14 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":9,
     "QUESTION_NUMBER":21,
     "SEQUENCE":209,
     "BCQ_KEY":"40-09-21",
     "CORRECT_OPTION":"A",
-    "QUESTION":"When the people said, “It was never seen like this in Israel,” what had they seen? (9:33)",
+    "QUESTION":"When the people said, 'It was never seen like this in Israel,' what had they seen? (9:33)",
     "CHOICE_A":"The healing of a mute man who was demon-possessed",
     "CHOICE_B":"The feeding of five thousand with a few loaves and fish",
     "CHOICE_C":"The raising of a girl from the dead",
@@ -3136,7 +3136,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":9,
     "QUESTION_NUMBER":22,
@@ -3151,7 +3151,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":9,
     "QUESTION_NUMBER":23,
@@ -3166,7 +3166,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":9,
     "QUESTION_NUMBER":24,
@@ -3181,7 +3181,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":9,
     "QUESTION_NUMBER":25,
@@ -3196,7 +3196,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":9,
     "QUESTION_NUMBER":26,
@@ -3211,7 +3211,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":10,
     "QUESTION_NUMBER":1,
@@ -3226,7 +3226,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":10,
     "QUESTION_NUMBER":2,
@@ -3241,7 +3241,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":10,
     "QUESTION_NUMBER":3,
@@ -3256,7 +3256,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":10,
     "QUESTION_NUMBER":4,
@@ -3271,7 +3271,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":10,
     "QUESTION_NUMBER":5,
@@ -3286,7 +3286,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":10,
     "QUESTION_NUMBER":6,
@@ -3301,7 +3301,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":10,
     "QUESTION_NUMBER":7,
@@ -3316,7 +3316,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":10,
     "QUESTION_NUMBER":8,
@@ -3331,7 +3331,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":10,
     "QUESTION_NUMBER":9,
@@ -3346,7 +3346,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":10,
     "QUESTION_NUMBER":10,
@@ -3361,7 +3361,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":10,
     "QUESTION_NUMBER":11,
@@ -3376,7 +3376,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":10,
     "QUESTION_NUMBER":12,
@@ -3391,7 +3391,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":10,
     "QUESTION_NUMBER":13,
@@ -3406,7 +3406,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":10,
     "QUESTION_NUMBER":14,
@@ -3421,7 +3421,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":10,
     "QUESTION_NUMBER":15,
@@ -3436,7 +3436,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":10,
     "QUESTION_NUMBER":16,
@@ -3446,12 +3446,12 @@ var deck =
     "QUESTION":"Why would the apostles be hated by all men? (10:22)",
     "CHOICE_A":"For their preaching",
     "CHOICE_B":"For their good works",
-    "CHOICE_C":"For Jesus’name sake",
+    "CHOICE_C":"For Jesus'name sake",
     "CHOICE_D":"Because of the devil",
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":10,
     "QUESTION_NUMBER":17,
@@ -3466,7 +3466,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":10,
     "QUESTION_NUMBER":18,
@@ -3481,7 +3481,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":10,
     "QUESTION_NUMBER":19,
@@ -3496,7 +3496,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":10,
     "QUESTION_NUMBER":20,
@@ -3511,7 +3511,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":10,
     "QUESTION_NUMBER":21,
@@ -3526,7 +3526,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":10,
     "QUESTION_NUMBER":22,
@@ -3541,7 +3541,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":10,
     "QUESTION_NUMBER":23,
@@ -3556,7 +3556,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":10,
     "QUESTION_NUMBER":24,
@@ -3571,7 +3571,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":10,
     "QUESTION_NUMBER":25,
@@ -3586,7 +3586,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":10,
     "QUESTION_NUMBER":26,
@@ -3601,7 +3601,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":10,
     "QUESTION_NUMBER":27,
@@ -3616,7 +3616,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":10,
     "QUESTION_NUMBER":28,
@@ -3631,7 +3631,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":10,
     "QUESTION_NUMBER":29,
@@ -3646,7 +3646,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":10,
     "QUESTION_NUMBER":30,
@@ -3654,14 +3654,14 @@ var deck =
     "BCQ_KEY":"40-10-30",
     "CORRECT_OPTION":"A",
     "QUESTION":"What must you do to find your life? (10:39)",
-    "CHOICE_A":"Lose it for Jesus’ sake",
+    "CHOICE_A":"Lose it for Jesus' sake",
     "CHOICE_B":"Obey Jesus",
     "CHOICE_C":"Love others",
     "CHOICE_D":"Be willing to forgive",
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":10,
     "QUESTION_NUMBER":31,
@@ -3676,7 +3676,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":10,
     "QUESTION_NUMBER":32,
@@ -3684,14 +3684,14 @@ var deck =
     "BCQ_KEY":"40-10-32",
     "CORRECT_OPTION":"B",
     "QUESTION":"What will those who receive a prophet get in return? (10:41)",
-    "CHOICE_A":"A prophet’s blessing",
-    "CHOICE_B":"A prophet’s reward",
-    "CHOICE_C":"A prophet’s life",
-    "CHOICE_D":"A prophet’s persecution",
+    "CHOICE_A":"A prophet's blessing",
+    "CHOICE_B":"A prophet's reward",
+    "CHOICE_C":"A prophet's life",
+    "CHOICE_D":"A prophet's persecution",
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":10,
     "QUESTION_NUMBER":33,
@@ -3702,11 +3702,11 @@ var deck =
     "CHOICE_A":"The name of Jesus",
     "CHOICE_B":"The name of a disciple",
     "CHOICE_C":"The name of the Father",
-    "CHOICE_D":"One’s own name",
+    "CHOICE_D":"One's own name",
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":11,
     "QUESTION_NUMBER":1,
@@ -3721,7 +3721,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":11,
     "QUESTION_NUMBER":2,
@@ -3736,7 +3736,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":11,
     "QUESTION_NUMBER":3,
@@ -3751,7 +3751,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":11,
     "QUESTION_NUMBER":4,
@@ -3766,7 +3766,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":11,
     "QUESTION_NUMBER":5,
@@ -3781,7 +3781,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":11,
     "QUESTION_NUMBER":6,
@@ -3796,7 +3796,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":11,
     "QUESTION_NUMBER":7,
@@ -3811,7 +3811,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":11,
     "QUESTION_NUMBER":8,
@@ -3826,7 +3826,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":11,
     "QUESTION_NUMBER":9,
@@ -3841,7 +3841,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":11,
     "QUESTION_NUMBER":10,
@@ -3856,7 +3856,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":11,
     "QUESTION_NUMBER":11,
@@ -3871,7 +3871,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":11,
     "QUESTION_NUMBER":12,
@@ -3886,7 +3886,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":11,
     "QUESTION_NUMBER":13,
@@ -3901,7 +3901,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":11,
     "QUESTION_NUMBER":14,
@@ -3916,7 +3916,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":11,
     "QUESTION_NUMBER":15,
@@ -3931,7 +3931,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":11,
     "QUESTION_NUMBER":16,
@@ -3946,7 +3946,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":11,
     "QUESTION_NUMBER":17,
@@ -3961,7 +3961,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":11,
     "QUESTION_NUMBER":18,
@@ -3976,7 +3976,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":11,
     "QUESTION_NUMBER":19,
@@ -3991,7 +3991,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":11,
     "QUESTION_NUMBER":20,
@@ -4006,7 +4006,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":11,
     "QUESTION_NUMBER":21,
@@ -4021,7 +4021,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":12,
     "QUESTION_NUMBER":1,
@@ -4036,7 +4036,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":12,
     "QUESTION_NUMBER":2,
@@ -4051,7 +4051,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":12,
     "QUESTION_NUMBER":3,
@@ -4066,7 +4066,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":12,
     "QUESTION_NUMBER":4,
@@ -4081,7 +4081,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":12,
     "QUESTION_NUMBER":5,
@@ -4096,7 +4096,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":12,
     "QUESTION_NUMBER":6,
@@ -4111,7 +4111,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":12,
     "QUESTION_NUMBER":7,
@@ -4126,7 +4126,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":12,
     "QUESTION_NUMBER":8,
@@ -4141,7 +4141,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":12,
     "QUESTION_NUMBER":9,
@@ -4156,7 +4156,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":12,
     "QUESTION_NUMBER":10,
@@ -4171,7 +4171,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":12,
     "QUESTION_NUMBER":11,
@@ -4186,7 +4186,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":12,
     "QUESTION_NUMBER":12,
@@ -4201,7 +4201,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":12,
     "QUESTION_NUMBER":13,
@@ -4216,7 +4216,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":12,
     "QUESTION_NUMBER":14,
@@ -4231,7 +4231,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":12,
     "QUESTION_NUMBER":15,
@@ -4246,7 +4246,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":12,
     "QUESTION_NUMBER":16,
@@ -4261,7 +4261,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":12,
     "QUESTION_NUMBER":17,
@@ -4276,7 +4276,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":12,
     "QUESTION_NUMBER":18,
@@ -4291,7 +4291,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":12,
     "QUESTION_NUMBER":19,
@@ -4306,7 +4306,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":12,
     "QUESTION_NUMBER":20,
@@ -4321,7 +4321,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":12,
     "QUESTION_NUMBER":21,
@@ -4336,7 +4336,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":12,
     "QUESTION_NUMBER":22,
@@ -4351,7 +4351,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":12,
     "QUESTION_NUMBER":23,
@@ -4366,7 +4366,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":12,
     "QUESTION_NUMBER":24,
@@ -4381,7 +4381,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":12,
     "QUESTION_NUMBER":25,
@@ -4396,7 +4396,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":12,
     "QUESTION_NUMBER":26,
@@ -4411,7 +4411,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":12,
     "QUESTION_NUMBER":27,
@@ -4426,7 +4426,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":12,
     "QUESTION_NUMBER":28,
@@ -4441,7 +4441,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":12,
     "QUESTION_NUMBER":29,
@@ -4456,7 +4456,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":13,
     "QUESTION_NUMBER":1,
@@ -4471,7 +4471,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":13,
     "QUESTION_NUMBER":2,
@@ -4486,7 +4486,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":13,
     "QUESTION_NUMBER":3,
@@ -4501,7 +4501,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":13,
     "QUESTION_NUMBER":4,
@@ -4516,7 +4516,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":13,
     "QUESTION_NUMBER":5,
@@ -4531,7 +4531,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":13,
     "QUESTION_NUMBER":6,
@@ -4546,7 +4546,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":13,
     "QUESTION_NUMBER":7,
@@ -4561,7 +4561,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":13,
     "QUESTION_NUMBER":8,
@@ -4576,7 +4576,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":13,
     "QUESTION_NUMBER":9,
@@ -4591,7 +4591,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":13,
     "QUESTION_NUMBER":10,
@@ -4606,7 +4606,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":13,
     "QUESTION_NUMBER":11,
@@ -4621,7 +4621,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":13,
     "QUESTION_NUMBER":12,
@@ -4636,7 +4636,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":13,
     "QUESTION_NUMBER":13,
@@ -4651,7 +4651,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":13,
     "QUESTION_NUMBER":14,
@@ -4666,7 +4666,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":13,
     "QUESTION_NUMBER":15,
@@ -4681,7 +4681,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":13,
     "QUESTION_NUMBER":16,
@@ -4696,7 +4696,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":13,
     "QUESTION_NUMBER":17,
@@ -4711,7 +4711,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":13,
     "QUESTION_NUMBER":18,
@@ -4726,7 +4726,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":13,
     "QUESTION_NUMBER":19,
@@ -4741,7 +4741,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":13,
     "QUESTION_NUMBER":20,
@@ -4756,7 +4756,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":13,
     "QUESTION_NUMBER":21,
@@ -4771,7 +4771,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":13,
     "QUESTION_NUMBER":22,
@@ -4786,7 +4786,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":13,
     "QUESTION_NUMBER":23,
@@ -4801,7 +4801,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":13,
     "QUESTION_NUMBER":24,
@@ -4816,14 +4816,14 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":13,
     "QUESTION_NUMBER":25,
     "SEQUENCE":322,
     "BCQ_KEY":"40-13-25",
     "CORRECT_OPTION":"C",
-    "QUESTION":"The people in Jesus’ hometown wanted to know where He got His what? (13:54)",
+    "QUESTION":"The people in Jesus' hometown wanted to know where He got His what? (13:54)",
     "CHOICE_A":"Skill and wisdom",
     "CHOICE_B":"Knowledge and wisdom",
     "CHOICE_C":"Wisdom and might works",
@@ -4831,7 +4831,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":13,
     "QUESTION_NUMBER":26,
@@ -4846,7 +4846,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":13,
     "QUESTION_NUMBER":27,
@@ -4861,7 +4861,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":13,
     "QUESTION_NUMBER":28,
@@ -4876,7 +4876,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":14,
     "QUESTION_NUMBER":1,
@@ -4891,7 +4891,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":14,
     "QUESTION_NUMBER":2,
@@ -4906,7 +4906,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":14,
     "QUESTION_NUMBER":3,
@@ -4921,7 +4921,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":14,
     "QUESTION_NUMBER":4,
@@ -4936,7 +4936,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":14,
     "QUESTION_NUMBER":5,
@@ -4951,7 +4951,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":14,
     "QUESTION_NUMBER":6,
@@ -4966,7 +4966,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":14,
     "QUESTION_NUMBER":7,
@@ -4981,7 +4981,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":14,
     "QUESTION_NUMBER":8,
@@ -4996,7 +4996,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":14,
     "QUESTION_NUMBER":9,
@@ -5011,7 +5011,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":14,
     "QUESTION_NUMBER":10,
@@ -5026,7 +5026,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":14,
     "QUESTION_NUMBER":11,
@@ -5041,7 +5041,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":14,
     "QUESTION_NUMBER":12,
@@ -5056,7 +5056,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":14,
     "QUESTION_NUMBER":13,
@@ -5071,7 +5071,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":14,
     "QUESTION_NUMBER":14,
@@ -5086,7 +5086,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":14,
     "QUESTION_NUMBER":15,
@@ -5101,7 +5101,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":14,
     "QUESTION_NUMBER":16,
@@ -5116,7 +5116,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":14,
     "QUESTION_NUMBER":17,
@@ -5131,7 +5131,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":14,
     "QUESTION_NUMBER":18,
@@ -5146,7 +5146,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":14,
     "QUESTION_NUMBER":19,
@@ -5161,7 +5161,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":14,
     "QUESTION_NUMBER":20,
@@ -5176,7 +5176,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":14,
     "QUESTION_NUMBER":21,
@@ -5191,7 +5191,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":14,
     "QUESTION_NUMBER":22,
@@ -5200,13 +5200,13 @@ var deck =
     "CORRECT_OPTION":"B",
     "QUESTION":"How were the people of Gennesaret healed? (14:36)",
     "CHOICE_A":"Through prayer",
-    "CHOICE_B":"By touching the hem of Jesus’ garment",
+    "CHOICE_B":"By touching the hem of Jesus' garment",
     "CHOICE_C":"By Jesus placing His hand on them",
     "CHOICE_D":"By the word of Jesus",
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":15,
     "QUESTION_NUMBER":1,
@@ -5221,7 +5221,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":15,
     "QUESTION_NUMBER":2,
@@ -5236,7 +5236,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":15,
     "QUESTION_NUMBER":3,
@@ -5251,7 +5251,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":15,
     "QUESTION_NUMBER":4,
@@ -5266,7 +5266,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":15,
     "QUESTION_NUMBER":5,
@@ -5281,7 +5281,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":15,
     "QUESTION_NUMBER":6,
@@ -5296,7 +5296,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":15,
     "QUESTION_NUMBER":7,
@@ -5311,7 +5311,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":15,
     "QUESTION_NUMBER":8,
@@ -5326,7 +5326,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":15,
     "QUESTION_NUMBER":9,
@@ -5341,7 +5341,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":15,
     "QUESTION_NUMBER":10,
@@ -5356,7 +5356,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":15,
     "QUESTION_NUMBER":11,
@@ -5371,7 +5371,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":15,
     "QUESTION_NUMBER":12,
@@ -5386,7 +5386,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":15,
     "QUESTION_NUMBER":13,
@@ -5401,7 +5401,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":15,
     "QUESTION_NUMBER":14,
@@ -5416,7 +5416,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":15,
     "QUESTION_NUMBER":15,
@@ -5431,14 +5431,14 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":15,
     "QUESTION_NUMBER":16,
     "SEQUENCE":363,
     "BCQ_KEY":"40-15-16",
     "CORRECT_OPTION":"B",
-    "QUESTION":"What was the result of the Canaanite woman’s great faith? (15:28)",
+    "QUESTION":"What was the result of the Canaanite woman's great faith? (15:28)",
     "CHOICE_A":"She was given bread for her dogs",
     "CHOICE_B":"Her daughter was healed that very hour",
     "CHOICE_C":"She was able to talk to Jesus",
@@ -5446,7 +5446,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":15,
     "QUESTION_NUMBER":17,
@@ -5461,7 +5461,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":15,
     "QUESTION_NUMBER":18,
@@ -5476,7 +5476,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":15,
     "QUESTION_NUMBER":19,
@@ -5491,7 +5491,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":15,
     "QUESTION_NUMBER":20,
@@ -5506,7 +5506,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":16,
     "QUESTION_NUMBER":1,
@@ -5521,7 +5521,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":16,
     "QUESTION_NUMBER":2,
@@ -5536,7 +5536,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":16,
     "QUESTION_NUMBER":3,
@@ -5551,7 +5551,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":16,
     "QUESTION_NUMBER":4,
@@ -5566,7 +5566,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":16,
     "QUESTION_NUMBER":5,
@@ -5581,7 +5581,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":16,
     "QUESTION_NUMBER":6,
@@ -5596,7 +5596,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":16,
     "QUESTION_NUMBER":7,
@@ -5611,14 +5611,14 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":16,
     "QUESTION_NUMBER":8,
     "SEQUENCE":375,
     "BCQ_KEY":"40-16-08",
     "CORRECT_OPTION":"C",
-    "QUESTION":"What did Simon Peter say when Jesus asked, “But who do you say that I am?” (16:16)",
+    "QUESTION":"What did Simon Peter say when Jesus asked, 'But who do you say that I am?' (16:16)",
     "CHOICE_A":"Son of Joseph and Mary",
     "CHOICE_B":"Brother to Martha",
     "CHOICE_C":"The Christ, the Son of the living God",
@@ -5626,7 +5626,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":16,
     "QUESTION_NUMBER":9,
@@ -5641,7 +5641,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":16,
     "QUESTION_NUMBER":10,
@@ -5656,7 +5656,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":16,
     "QUESTION_NUMBER":11,
@@ -5671,7 +5671,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":16,
     "QUESTION_NUMBER":12,
@@ -5686,7 +5686,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":16,
     "QUESTION_NUMBER":13,
@@ -5701,14 +5701,14 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":16,
     "QUESTION_NUMBER":14,
     "SEQUENCE":381,
     "BCQ_KEY":"40-16-14",
     "CORRECT_OPTION":"C",
-    "QUESTION":"Who rebuked Jesus, saying, “This shall not happen to You”? (16:22)",
+    "QUESTION":"Who rebuked Jesus, saying, 'This shall not happen to You'? (16:22)",
     "CHOICE_A":"Matthew",
     "CHOICE_B":"Mark",
     "CHOICE_C":"Peter",
@@ -5716,7 +5716,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":16,
     "QUESTION_NUMBER":15,
@@ -5731,7 +5731,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":16,
     "QUESTION_NUMBER":16,
@@ -5746,7 +5746,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":16,
     "QUESTION_NUMBER":17,
@@ -5761,7 +5761,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":16,
     "QUESTION_NUMBER":18,
@@ -5776,7 +5776,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":16,
     "QUESTION_NUMBER":19,
@@ -5791,7 +5791,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":17,
     "QUESTION_NUMBER":1,
@@ -5806,7 +5806,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":17,
     "QUESTION_NUMBER":2,
@@ -5821,7 +5821,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":17,
     "QUESTION_NUMBER":3,
@@ -5836,7 +5836,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":17,
     "QUESTION_NUMBER":4,
@@ -5851,7 +5851,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":17,
     "QUESTION_NUMBER":5,
@@ -5866,7 +5866,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":17,
     "QUESTION_NUMBER":6,
@@ -5877,11 +5877,11 @@ var deck =
     "CHOICE_A":"A voice out of a cloud spoke to them",
     "CHOICE_B":"A bright cloud overshadowed them",
     "CHOICE_C":"It started to rain",
-    "CHOICE_D":"The voice said, “This is My beloved Son, with whom I am well-pleased; hear Him!”",
+    "CHOICE_D":"The voice said, 'This is My beloved Son, with whom I am well-pleased; hear Him!'",
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":17,
     "QUESTION_NUMBER":7,
@@ -5896,7 +5896,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":17,
     "QUESTION_NUMBER":8,
@@ -5911,7 +5911,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":17,
     "QUESTION_NUMBER":9,
@@ -5926,7 +5926,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":17,
     "QUESTION_NUMBER":10,
@@ -5941,7 +5941,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":17,
     "QUESTION_NUMBER":11,
@@ -5956,7 +5956,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":17,
     "QUESTION_NUMBER":12,
@@ -5965,13 +5965,13 @@ var deck =
     "CORRECT_OPTION":"B",
     "QUESTION":"Who had not been able to cure the boy who fell into fire and water? (17:16)",
     "CHOICE_A":"Doctors",
-    "CHOICE_B":"Jesus’ disciples",
+    "CHOICE_B":"Jesus' disciples",
     "CHOICE_C":"Nurses",
     "CHOICE_D":"Priests",
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":17,
     "QUESTION_NUMBER":13,
@@ -5986,14 +5986,14 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":17,
     "QUESTION_NUMBER":14,
     "SEQUENCE":400,
     "BCQ_KEY":"40-17-14",
     "CORRECT_OPTION":"C",
-    "QUESTION":"Why were the disciples unable to cast out the boy’s demon? (17:20)",
+    "QUESTION":"Why were the disciples unable to cast out the boy's demon? (17:20)",
     "CHOICE_A":"They did not have medical training",
     "CHOICE_B":"They did not have a license to practice medicine",
     "CHOICE_C":"Because of their unbelief",
@@ -6001,7 +6001,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":17,
     "QUESTION_NUMBER":15,
@@ -6016,7 +6016,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":17,
     "QUESTION_NUMBER":16,
@@ -6031,7 +6031,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":17,
     "QUESTION_NUMBER":17,
@@ -6046,7 +6046,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":17,
     "QUESTION_NUMBER":18,
@@ -6061,7 +6061,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":17,
     "QUESTION_NUMBER":19,
@@ -6076,29 +6076,29 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":17,
     "QUESTION_NUMBER":20,
     "SEQUENCE":406,
     "BCQ_KEY":"40-17-20",
     "CORRECT_OPTION":"B",
-    "QUESTION":"What did Peter find in the fish’s mouth? (17:27)",
+    "QUESTION":"What did Peter find in the fish's mouth? (17:27)",
     "CHOICE_A":"A worm",
     "CHOICE_B":"A piece of money",
     "CHOICE_C":"A dollar",
-    "CHOICE_D":"A scroll stating, “Payment in full.”",
+    "CHOICE_D":"A scroll stating, 'Payment in full.'",
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":18,
     "QUESTION_NUMBER":1,
     "SEQUENCE":407,
     "BCQ_KEY":"40-18-01",
     "CORRECT_OPTION":"B",
-    "QUESTION":"Who did Jesus call to Himself when the disciples asked, “Who then is greatest in the kingdom of heaven?” (18:2)",
+    "QUESTION":"Who did Jesus call to Himself when the disciples asked, 'Who then is greatest in the kingdom of heaven?' (18:2)",
     "CHOICE_A":"Peter",
     "CHOICE_B":"A child",
     "CHOICE_C":"James",
@@ -6106,7 +6106,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":18,
     "QUESTION_NUMBER":2,
@@ -6121,7 +6121,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":18,
     "QUESTION_NUMBER":3,
@@ -6136,7 +6136,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":18,
     "QUESTION_NUMBER":4,
@@ -6151,7 +6151,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":18,
     "QUESTION_NUMBER":5,
@@ -6162,11 +6162,11 @@ var deck =
     "CHOICE_A":"Do everything you can to avoid becoming crippled or lame",
     "CHOICE_B":"Seek medical attention",
     "CHOICE_C":"Cut it off and cast it from you",
-    "CHOICE_D":"Don’t be concerned if you sin",
+    "CHOICE_D":"Don't be concerned if you sin",
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":18,
     "QUESTION_NUMBER":6,
@@ -6181,7 +6181,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":18,
     "QUESTION_NUMBER":7,
@@ -6196,7 +6196,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":18,
     "QUESTION_NUMBER":8,
@@ -6211,7 +6211,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":18,
     "QUESTION_NUMBER":9,
@@ -6219,14 +6219,14 @@ var deck =
     "BCQ_KEY":"40-18-09",
     "CORRECT_OPTION":"D",
     "QUESTION":"If a brother sins, what does Jesus tell us to do first? (18:15)",
-    "CHOICE_A":"Don’t do anything; it is not your business",
+    "CHOICE_A":"Don't do anything; it is not your business",
     "CHOICE_B":"Take another person with you when you visit him",
     "CHOICE_C":"Ask another person if they have heard about the sin",
     "CHOICE_D":"Go and tell him his fault between you and him alone",
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":18,
     "QUESTION_NUMBER":10,
@@ -6241,7 +6241,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":18,
     "QUESTION_NUMBER":11,
@@ -6252,11 +6252,11 @@ var deck =
     "CHOICE_A":"Let him be to you like a heathen and a tax collector",
     "CHOICE_B":"Continue to fellowship with him",
     "CHOICE_C":"Overlook his faults",
-    "CHOICE_D":"Don’t judge him",
+    "CHOICE_D":"Don't judge him",
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":18,
     "QUESTION_NUMBER":12,
@@ -6267,11 +6267,11 @@ var deck =
     "CHOICE_A":"On Sunday",
     "CHOICE_B":"In a church building",
     "CHOICE_C":"With a group of ten or more",
-    "CHOICE_D":"Where two or three have gathered together in Jesus’ name",
+    "CHOICE_D":"Where two or three have gathered together in Jesus' name",
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":18,
     "QUESTION_NUMBER":13,
@@ -6286,7 +6286,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":18,
     "QUESTION_NUMBER":14,
@@ -6301,7 +6301,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":18,
     "QUESTION_NUMBER":15,
@@ -6316,7 +6316,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":18,
     "QUESTION_NUMBER":16,
@@ -6326,19 +6326,19 @@ var deck =
     "QUESTION":"What did the slave who could not pay his debt plead to the lord, his king? (18:26)",
     "CHOICE_A":"Please do not sell my wife",
     "CHOICE_B":"Have patience with me, and I will pay you all",
-    "CHOICE_C":"Please don’t make me pay",
+    "CHOICE_C":"Please don't make me pay",
     "CHOICE_D":"Please do not sell my children",
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":18,
     "QUESTION_NUMBER":17,
     "SEQUENCE":423,
     "BCQ_KEY":"40-18-17",
     "CORRECT_OPTION":"D",
-    "QUESTION":"How did the master and king respond to the servant’s plea for patience to allow him to pay his debt? (18:27)",
+    "QUESTION":"How did the master and king respond to the servant's plea for patience to allow him to pay his debt? (18:27)",
     "CHOICE_A":"He sold him, his wife, and his children",
     "CHOICE_B":"He put him to death for talking back to him",
     "CHOICE_C":"He put him in prison",
@@ -6346,7 +6346,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":18,
     "QUESTION_NUMBER":18,
@@ -6361,7 +6361,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":18,
     "QUESTION_NUMBER":19,
@@ -6376,7 +6376,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":18,
     "QUESTION_NUMBER":20,
@@ -6391,7 +6391,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":19,
     "QUESTION_NUMBER":1,
@@ -6406,7 +6406,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":19,
     "QUESTION_NUMBER":2,
@@ -6421,7 +6421,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":19,
     "QUESTION_NUMBER":3,
@@ -6436,7 +6436,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":19,
     "QUESTION_NUMBER":4,
@@ -6451,7 +6451,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":19,
     "QUESTION_NUMBER":5,
@@ -6466,7 +6466,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":19,
     "QUESTION_NUMBER":6,
@@ -6481,7 +6481,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":19,
     "QUESTION_NUMBER":7,
@@ -6496,14 +6496,14 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":19,
     "QUESTION_NUMBER":8,
     "SEQUENCE":434,
     "BCQ_KEY":"40-19-08",
     "CORRECT_OPTION":"D",
-    "QUESTION":"How did Jesus respond when asked, “Teacher, what good thing shall I do that I may have eternal life?” (19:17)",
+    "QUESTION":"How did Jesus respond when asked, 'Teacher, what good thing shall I do that I may have eternal life?' (19:17)",
     "CHOICE_A":"Believe with all your heart",
     "CHOICE_B":"Do not do anything; everyone will obtain eternal life",
     "CHOICE_C":"Obey the laws of the land",
@@ -6511,7 +6511,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":19,
     "QUESTION_NUMBER":9,
@@ -6526,7 +6526,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":19,
     "QUESTION_NUMBER":10,
@@ -6541,7 +6541,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":19,
     "QUESTION_NUMBER":11,
@@ -6556,7 +6556,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":19,
     "QUESTION_NUMBER":12,
@@ -6571,7 +6571,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":19,
     "QUESTION_NUMBER":13,
@@ -6586,7 +6586,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":19,
     "QUESTION_NUMBER":14,
@@ -6601,7 +6601,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":19,
     "QUESTION_NUMBER":15,
@@ -6616,7 +6616,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":19,
     "QUESTION_NUMBER":16,
@@ -6631,7 +6631,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":19,
     "QUESTION_NUMBER":17,
@@ -6646,7 +6646,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":19,
     "QUESTION_NUMBER":18,
@@ -6661,14 +6661,14 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":19,
     "QUESTION_NUMBER":19,
     "SEQUENCE":445,
     "BCQ_KEY":"40-19-19",
     "CORRECT_OPTION":"B",
-    "QUESTION":"What will everyone who has left houses or brothers or sisters or father or mother or wife or children or lands for Jesus’ sake inherit? (19:29)",
+    "QUESTION":"What will everyone who has left houses or brothers or sisters or father or mother or wife or children or lands for Jesus' sake inherit? (19:29)",
     "CHOICE_A":"Riches",
     "CHOICE_B":"A hundredfold , and eternal life",
     "CHOICE_C":"Earthly life without problems",
@@ -6676,7 +6676,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":19,
     "QUESTION_NUMBER":20,
@@ -6691,7 +6691,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":20,
     "QUESTION_NUMBER":1,
@@ -6706,7 +6706,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":20,
     "QUESTION_NUMBER":2,
@@ -6721,7 +6721,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":20,
     "QUESTION_NUMBER":3,
@@ -6736,14 +6736,14 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":20,
     "QUESTION_NUMBER":4,
     "SEQUENCE":450,
     "BCQ_KEY":"40-20-04",
     "CORRECT_OPTION":"A",
-    "QUESTION":"The laborers in the Parable of the Laborers and the Vineyard agreed to what wage for one day’s work? (20:2)",
+    "QUESTION":"The laborers in the Parable of the Laborers and the Vineyard agreed to what wage for one day's work? (20:2)",
     "CHOICE_A":"A denarius",
     "CHOICE_B":"A place to stay and food for their families",
     "CHOICE_C":"All the grapes they could eat",
@@ -6751,7 +6751,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":20,
     "QUESTION_NUMBER":5,
@@ -6766,7 +6766,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":20,
     "QUESTION_NUMBER":6,
@@ -6781,7 +6781,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":20,
     "QUESTION_NUMBER":7,
@@ -6796,7 +6796,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":20,
     "QUESTION_NUMBER":8,
@@ -6806,12 +6806,12 @@ var deck =
     "QUESTION":"How did the landowner of the vineyard in the Parable of the Laborers and the Vineyard instruct his foreman to pay wages? (20: 8)",
     "CHOICE_A":"Pay the first ones hired first",
     "CHOICE_B":"Pay the last ones hired first",
-    "CHOICE_C":"They would be paid after one week’s work",
-    "CHOICE_D":"They would be paid after one month’s work",
+    "CHOICE_C":"They would be paid after one week's work",
+    "CHOICE_D":"They would be paid after one month's work",
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":20,
     "QUESTION_NUMBER":9,
@@ -6826,7 +6826,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":20,
     "QUESTION_NUMBER":10,
@@ -6834,14 +6834,14 @@ var deck =
     "BCQ_KEY":"40-20-10",
     "CORRECT_OPTION":"B",
     "QUESTION":"In the Parable of the Laborers and the Vineyard, what did the laborers who had worked all day do when they learned every laborer received the same wage? (20:11)",
-    "CHOICE_A":"They were thankful for a full day’s pay",
+    "CHOICE_A":"They were thankful for a full day's pay",
     "CHOICE_B":"They complained against the landowner",
     "CHOICE_C":"They got angry at the other workers",
     "CHOICE_D":"They quit",
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":20,
     "QUESTION_NUMBER":11,
@@ -6856,7 +6856,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":20,
     "QUESTION_NUMBER":12,
@@ -6871,7 +6871,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":20,
     "QUESTION_NUMBER":13,
@@ -6886,7 +6886,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":20,
     "QUESTION_NUMBER":14,
@@ -6901,7 +6901,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":20,
     "QUESTION_NUMBER":15,
@@ -6916,7 +6916,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":20,
     "QUESTION_NUMBER":16,
@@ -6931,7 +6931,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":20,
     "QUESTION_NUMBER":17,
@@ -6946,7 +6946,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":20,
     "QUESTION_NUMBER":18,
@@ -6961,7 +6961,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":20,
     "QUESTION_NUMBER":19,
@@ -6976,7 +6976,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":20,
     "QUESTION_NUMBER":20,
@@ -6991,7 +6991,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":21,
     "QUESTION_NUMBER":1,
@@ -7006,7 +7006,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":21,
     "QUESTION_NUMBER":2,
@@ -7014,14 +7014,14 @@ var deck =
     "BCQ_KEY":"40-21-02",
     "CORRECT_OPTION":"A",
     "QUESTION":"What reason were the disciples to give if one asked why they were taking the donkey and colt? (21:3)",
-    "CHOICE_A":"“The Lord has need of them”",
-    "CHOICE_B":"“This is to fulfill what the prophet said”",
-    "CHOICE_C":"“We are going to feed them”",
-    "CHOICE_D":"“The donkey and colt belong to Jesus”",
+    "CHOICE_A":"'The Lord has need of them'",
+    "CHOICE_B":"'This is to fulfill what the prophet said'",
+    "CHOICE_C":"'We are going to feed them'",
+    "CHOICE_D":"'The donkey and colt belong to Jesus'",
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":21,
     "QUESTION_NUMBER":3,
@@ -7036,7 +7036,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":21,
     "QUESTION_NUMBER":4,
@@ -7051,7 +7051,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":21,
     "QUESTION_NUMBER":5,
@@ -7066,7 +7066,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":21,
     "QUESTION_NUMBER":6,
@@ -7076,12 +7076,12 @@ var deck =
     "QUESTION":"What were the multitudes crying out as Jesus rode into Jerusalem? (21:9-11)",
     "CHOICE_A":"Here is the son of the carpenter",
     "CHOICE_B":"This is our Savior",
-    "CHOICE_C":"This can’t be Jesus",
+    "CHOICE_C":"This can't be Jesus",
     "CHOICE_D":"This is Jesus, the prophet from Nazareth of Galilee",
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":21,
     "QUESTION_NUMBER":7,
@@ -7096,7 +7096,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":21,
     "QUESTION_NUMBER":8,
@@ -7111,7 +7111,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":21,
     "QUESTION_NUMBER":9,
@@ -7126,7 +7126,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":21,
     "QUESTION_NUMBER":10,
@@ -7135,20 +7135,20 @@ var deck =
     "CORRECT_OPTION":"D",
     "QUESTION":"Which of the following statements did Jesus NOT make? (21:21-22)",
     "CHOICE_A":"All things that you ask in prayer, believing, you shall receive",
-    "CHOICE_B":"If you say to this mountain, “Be removed and be cast into the sea,” it will be done",
+    "CHOICE_B":"If you say to this mountain, 'Be removed and be cast into the sea,' it will be done",
     "CHOICE_C":"If you have faith, and do not doubt, you can do what was done to the fig tree",
     "CHOICE_D":"God gives everyone what they want because they are His children",
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":21,
     "QUESTION_NUMBER":11,
     "SEQUENCE":477,
     "BCQ_KEY":"40-21-11",
     "CORRECT_OPTION":"C",
-    "QUESTION":"What did Jesus reply when asked, “By what authority are you doing these things, and who gave You this authority?” (21:23-25)",
+    "QUESTION":"What did Jesus reply when asked, 'By what authority are you doing these things, and who gave You this authority?' (21:23-25)",
     "CHOICE_A":"God is my authority in all that I do",
     "CHOICE_B":"The people of Jerusalem give me authority to speak",
     "CHOICE_C":"He asked them if the baptism of John was of heaven or men",
@@ -7156,7 +7156,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":21,
     "QUESTION_NUMBER":12,
@@ -7171,7 +7171,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":21,
     "QUESTION_NUMBER":13,
@@ -7179,14 +7179,14 @@ var deck =
     "BCQ_KEY":"40-21-13",
     "CORRECT_OPTION":"B",
     "QUESTION":"In the parable of the two sons, what did the first son do when told by his father to work today in the vineyard? (21:29)",
-    "CHOICE_A":"He said, “I will, sir” but did not go",
-    "CHOICE_B":"He said, “I will not” and did go",
-    "CHOICE_C":"He said, “I will, sir” and did go",
-    "CHOICE_D":"He ignored his father’s request",
+    "CHOICE_A":"He said, 'I will, sir' but did not go",
+    "CHOICE_B":"He said, 'I will not' and did go",
+    "CHOICE_C":"He said, 'I will, sir' and did go",
+    "CHOICE_D":"He ignored his father's request",
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":21,
     "QUESTION_NUMBER":14,
@@ -7194,14 +7194,14 @@ var deck =
     "BCQ_KEY":"40-21-14",
     "CORRECT_OPTION":"A",
     "QUESTION":"In the parable of the two sons, what did the second son do when told by his father to work today in the vineyard? (21:29)",
-    "CHOICE_A":"He said, “I will, sir” but did not go",
-    "CHOICE_B":"He said, “I will not” but later did go",
-    "CHOICE_C":"He said, “I will, sir” and did go",
+    "CHOICE_A":"He said, 'I will, sir' but did not go",
+    "CHOICE_B":"He said, 'I will not' but later did go",
+    "CHOICE_C":"He said, 'I will, sir' and did go",
     "CHOICE_D":"We do not know",
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":21,
     "QUESTION_NUMBER":15,
@@ -7216,7 +7216,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":21,
     "QUESTION_NUMBER":16,
@@ -7231,7 +7231,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":21,
     "QUESTION_NUMBER":17,
@@ -7246,7 +7246,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":21,
     "QUESTION_NUMBER":18,
@@ -7261,7 +7261,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":21,
     "QUESTION_NUMBER":19,
@@ -7276,7 +7276,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":21,
     "QUESTION_NUMBER":20,
@@ -7291,7 +7291,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":21,
     "QUESTION_NUMBER":21,
@@ -7306,7 +7306,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":22,
     "QUESTION_NUMBER":1,
@@ -7321,7 +7321,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":22,
     "QUESTION_NUMBER":2,
@@ -7336,7 +7336,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":22,
     "QUESTION_NUMBER":3,
@@ -7351,7 +7351,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":22,
     "QUESTION_NUMBER":4,
@@ -7366,7 +7366,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":22,
     "QUESTION_NUMBER":5,
@@ -7381,7 +7381,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":22,
     "QUESTION_NUMBER":6,
@@ -7396,7 +7396,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":22,
     "QUESTION_NUMBER":7,
@@ -7411,7 +7411,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":22,
     "QUESTION_NUMBER":8,
@@ -7426,14 +7426,14 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":22,
     "QUESTION_NUMBER":9,
     "SEQUENCE":496,
     "BCQ_KEY":"40-22-09",
     "CORRECT_OPTION":"A",
-    "QUESTION":"What did Jesus call the disciples of the Pharisees when they asked, “Is it lawful to pay taxes to Caesar, or not?” (22:17-18)",
+    "QUESTION":"What did Jesus call the disciples of the Pharisees when they asked, 'Is it lawful to pay taxes to Caesar, or not?' (22:17-18)",
     "CHOICE_A":"Hypocrites",
     "CHOICE_B":"Law-abiding citizens",
     "CHOICE_C":"Followers",
@@ -7441,7 +7441,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":22,
     "QUESTION_NUMBER":10,
@@ -7451,12 +7451,12 @@ var deck =
     "QUESTION":"How did Jesus answer the question of the Pharisees regarding taxes? (22:21)",
     "CHOICE_A":"Give all to Caesar",
     "CHOICE_B":"Give all to God",
-    "CHOICE_C":"Render therefore to Caesar the things that are Caesar’s, and to God the things that are God’s",
+    "CHOICE_C":"Render therefore to Caesar the things that are Caesar's, and to God the things that are God's",
     "CHOICE_D":"You do not have to pay taxes",
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":22,
     "QUESTION_NUMBER":11,
@@ -7471,7 +7471,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":22,
     "QUESTION_NUMBER":12,
@@ -7480,13 +7480,13 @@ var deck =
     "CORRECT_OPTION":"C",
     "QUESTION":"What quote from Moses is presented by the Sadducees while addressing Jesus? (22:24)",
     "CHOICE_A":"A woman cannot marry again if her husband dies",
-    "CHOICE_B":"A woman cannot marry her husband’s brother",
+    "CHOICE_B":"A woman cannot marry her husband's brother",
     "CHOICE_C":"If a man dies, having no children, his brother shall marry his wife and raise up offspring for his brother",
     "CHOICE_D":"A woman cannot have more than one husband at a time",
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":22,
     "QUESTION_NUMBER":13,
@@ -7501,7 +7501,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":22,
     "QUESTION_NUMBER":14,
@@ -7516,7 +7516,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":22,
     "QUESTION_NUMBER":15,
@@ -7531,7 +7531,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":22,
     "QUESTION_NUMBER":16,
@@ -7546,7 +7546,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":22,
     "QUESTION_NUMBER":17,
@@ -7561,7 +7561,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":22,
     "QUESTION_NUMBER":18,
@@ -7576,7 +7576,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":22,
     "QUESTION_NUMBER":19,
@@ -7591,14 +7591,14 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":22,
     "QUESTION_NUMBER":20,
     "SEQUENCE":507,
     "BCQ_KEY":"40-22-20",
     "CORRECT_OPTION":"C",
-    "QUESTION":"How did the Pharisees respond when asked, “Whose son is Christ?” (22:42)",
+    "QUESTION":"How did the Pharisees respond when asked, 'Whose son is Christ?' (22:42)",
     "CHOICE_A":"The son of Isaac",
     "CHOICE_B":"The son of God",
     "CHOICE_C":"The son of David",
@@ -7606,7 +7606,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":23,
     "QUESTION_NUMBER":1,
@@ -7621,7 +7621,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":23,
     "QUESTION_NUMBER":2,
@@ -7629,14 +7629,14 @@ var deck =
     "BCQ_KEY":"40-23-02",
     "CORRECT_OPTION":"C",
     "QUESTION":"What advice did Jesus give concerning the scribes and Pharisees? (23:3)",
-    "CHOICE_A":"Bind heavy burdens, hard to bear, and lay them on men’s shoulders",
+    "CHOICE_A":"Bind heavy burdens, hard to bear, and lay them on men's shoulders",
     "CHOICE_B":"Do according to their deeds",
     "CHOICE_C":"Whatever they tell you to observe, that observe and do, but do not do according to their works",
     "CHOICE_D":"Do not allow them to tell you what to do",
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":23,
     "QUESTION_NUMBER":3,
@@ -7651,7 +7651,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":23,
     "QUESTION_NUMBER":4,
@@ -7666,7 +7666,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":23,
     "QUESTION_NUMBER":5,
@@ -7681,7 +7681,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":23,
     "QUESTION_NUMBER":6,
@@ -7696,7 +7696,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":23,
     "QUESTION_NUMBER":7,
@@ -7711,7 +7711,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":23,
     "QUESTION_NUMBER":8,
@@ -7726,7 +7726,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":23,
     "QUESTION_NUMBER":9,
@@ -7741,7 +7741,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":23,
     "QUESTION_NUMBER":10,
@@ -7756,7 +7756,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":23,
     "QUESTION_NUMBER":11,
@@ -7771,7 +7771,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":23,
     "QUESTION_NUMBER":12,
@@ -7786,7 +7786,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":23,
     "QUESTION_NUMBER":13,
@@ -7801,7 +7801,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":23,
     "QUESTION_NUMBER":14,
@@ -7816,7 +7816,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":23,
     "QUESTION_NUMBER":15,
@@ -7831,7 +7831,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":23,
     "QUESTION_NUMBER":16,
@@ -7840,13 +7840,13 @@ var deck =
     "CORRECT_OPTION":"B",
     "QUESTION":"What is on the inside of beautiful whitewashed tombs? (23:27)",
     "CHOICE_A":"Clean bodies",
-    "CHOICE_B":"Dead men’s bones and all uncleanness",
+    "CHOICE_B":"Dead men's bones and all uncleanness",
     "CHOICE_C":"Spirits of dead men",
     "CHOICE_D":"Nothing",
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":23,
     "QUESTION_NUMBER":17,
@@ -7861,7 +7861,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":23,
     "QUESTION_NUMBER":18,
@@ -7876,7 +7876,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":23,
     "QUESTION_NUMBER":19,
@@ -7891,7 +7891,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":23,
     "QUESTION_NUMBER":20,
@@ -7906,7 +7906,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":23,
     "QUESTION_NUMBER":21,
@@ -7921,7 +7921,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":23,
     "QUESTION_NUMBER":22,
@@ -7929,14 +7929,14 @@ var deck =
     "BCQ_KEY":"40-23-22",
     "CORRECT_OPTION":"A",
     "QUESTION":"Jesus told the scribes and Pharisees they would not see Him until they say what? (23:39)",
-    "CHOICE_A":"“Blessed is He who comes in the name of the Lord”",
-    "CHOICE_B":"“Blessed is He who has come to save Israel”",
-    "CHOICE_C":"“Blessed is He who has come to condemn the sinful”",
-    "CHOICE_D":"“Blessed is He who has come to save the lost”",
+    "CHOICE_A":"'Blessed is He who comes in the name of the Lord'",
+    "CHOICE_B":"'Blessed is He who has come to save Israel'",
+    "CHOICE_C":"'Blessed is He who has come to condemn the sinful'",
+    "CHOICE_D":"'Blessed is He who has come to save the lost'",
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":24,
     "QUESTION_NUMBER":1,
@@ -7951,7 +7951,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":24,
     "QUESTION_NUMBER":2,
@@ -7966,7 +7966,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":24,
     "QUESTION_NUMBER":3,
@@ -7981,7 +7981,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":24,
     "QUESTION_NUMBER":4,
@@ -7996,7 +7996,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":24,
     "QUESTION_NUMBER":5,
@@ -8007,11 +8007,11 @@ var deck =
     "CHOICE_A":"You will become more powerful",
     "CHOICE_B":"They will deliver you to tribulation",
     "CHOICE_C":"They will kill you",
-    "CHOICE_D":"You will be hated by all nations for my name’s sake",
+    "CHOICE_D":"You will be hated by all nations for my name's sake",
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":24,
     "QUESTION_NUMBER":6,
@@ -8026,7 +8026,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":24,
     "QUESTION_NUMBER":7,
@@ -8041,7 +8041,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":24,
     "QUESTION_NUMBER":8,
@@ -8056,7 +8056,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":24,
     "QUESTION_NUMBER":9,
@@ -8071,7 +8071,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":24,
     "QUESTION_NUMBER":10,
@@ -8086,7 +8086,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":24,
     "QUESTION_NUMBER":11,
@@ -8101,7 +8101,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":24,
     "QUESTION_NUMBER":12,
@@ -8116,7 +8116,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":24,
     "QUESTION_NUMBER":13,
@@ -8127,11 +8127,11 @@ var deck =
     "CHOICE_A":"Not finish his plowing",
     "CHOICE_B":"Not go back to get his clothes",
     "CHOICE_C":"Leave his animals and flee home",
-    "CHOICE_D":"Run to a neighbor’s house",
+    "CHOICE_D":"Run to a neighbor's house",
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":24,
     "QUESTION_NUMBER":14,
@@ -8146,7 +8146,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":24,
     "QUESTION_NUMBER":15,
@@ -8161,7 +8161,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":24,
     "QUESTION_NUMBER":16,
@@ -8176,7 +8176,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":24,
     "QUESTION_NUMBER":17,
@@ -8191,14 +8191,14 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":24,
     "QUESTION_NUMBER":18,
     "SEQUENCE":547,
     "BCQ_KEY":"40-24-18",
     "CORRECT_OPTION":"B",
-    "QUESTION":"During the abomination of desolation, if anyone says, “Behold, here is the Christ,” what is a disciple to do? (24:23)",
+    "QUESTION":"During the abomination of desolation, if anyone says, 'Behold, here is the Christ,' what is a disciple to do? (24:23)",
     "CHOICE_A":"Listen to him",
     "CHOICE_B":"Do not believe him",
     "CHOICE_C":"Seek a second opinion",
@@ -8206,7 +8206,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":24,
     "QUESTION_NUMBER":19,
@@ -8221,7 +8221,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":24,
     "QUESTION_NUMBER":20,
@@ -8236,7 +8236,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":24,
     "QUESTION_NUMBER":21,
@@ -8251,7 +8251,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":24,
     "QUESTION_NUMBER":22,
@@ -8266,7 +8266,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":24,
     "QUESTION_NUMBER":23,
@@ -8281,7 +8281,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":24,
     "QUESTION_NUMBER":24,
@@ -8296,7 +8296,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":24,
     "QUESTION_NUMBER":25,
@@ -8311,7 +8311,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":24,
     "QUESTION_NUMBER":26,
@@ -8326,7 +8326,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":24,
     "QUESTION_NUMBER":27,
@@ -8341,7 +8341,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":24,
     "QUESTION_NUMBER":28,
@@ -8356,7 +8356,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":24,
     "QUESTION_NUMBER":29,
@@ -8371,7 +8371,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":24,
     "QUESTION_NUMBER":30,
@@ -8386,7 +8386,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":24,
     "QUESTION_NUMBER":31,
@@ -8401,7 +8401,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":24,
     "QUESTION_NUMBER":32,
@@ -8416,7 +8416,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":24,
     "QUESTION_NUMBER":33,
@@ -8431,7 +8431,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":24,
     "QUESTION_NUMBER":34,
@@ -8446,7 +8446,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":24,
     "QUESTION_NUMBER":35,
@@ -8461,7 +8461,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":24,
     "QUESTION_NUMBER":36,
@@ -8476,7 +8476,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":24,
     "QUESTION_NUMBER":37,
@@ -8491,7 +8491,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":24,
     "QUESTION_NUMBER":38,
@@ -8506,7 +8506,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":24,
     "QUESTION_NUMBER":39,
@@ -8521,7 +8521,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":24,
     "QUESTION_NUMBER":40,
@@ -8536,7 +8536,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":24,
     "QUESTION_NUMBER":41,
@@ -8551,7 +8551,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":25,
     "QUESTION_NUMBER":1,
@@ -8566,7 +8566,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":25,
     "QUESTION_NUMBER":2,
@@ -8581,7 +8581,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":25,
     "QUESTION_NUMBER":3,
@@ -8596,7 +8596,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":25,
     "QUESTION_NUMBER":4,
@@ -8611,7 +8611,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":25,
     "QUESTION_NUMBER":5,
@@ -8626,7 +8626,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":25,
     "QUESTION_NUMBER":6,
@@ -8641,7 +8641,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":25,
     "QUESTION_NUMBER":7,
@@ -8656,7 +8656,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":25,
     "QUESTION_NUMBER":8,
@@ -8671,7 +8671,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":25,
     "QUESTION_NUMBER":9,
@@ -8686,7 +8686,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":25,
     "QUESTION_NUMBER":10,
@@ -8701,7 +8701,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":25,
     "QUESTION_NUMBER":11,
@@ -8716,7 +8716,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":25,
     "QUESTION_NUMBER":12,
@@ -8731,7 +8731,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":25,
     "QUESTION_NUMBER":13,
@@ -8746,7 +8746,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":25,
     "QUESTION_NUMBER":14,
@@ -8761,7 +8761,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":25,
     "QUESTION_NUMBER":15,
@@ -8776,7 +8776,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":25,
     "QUESTION_NUMBER":16,
@@ -8791,7 +8791,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":25,
     "QUESTION_NUMBER":17,
@@ -8806,7 +8806,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":25,
     "QUESTION_NUMBER":18,
@@ -8821,7 +8821,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":25,
     "QUESTION_NUMBER":19,
@@ -8836,7 +8836,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":25,
     "QUESTION_NUMBER":20,
@@ -8851,7 +8851,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":25,
     "QUESTION_NUMBER":21,
@@ -8866,7 +8866,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":25,
     "QUESTION_NUMBER":22,
@@ -8881,7 +8881,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":25,
     "QUESTION_NUMBER":23,
@@ -8896,7 +8896,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":25,
     "QUESTION_NUMBER":24,
@@ -8911,7 +8911,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":25,
     "QUESTION_NUMBER":25,
@@ -8926,7 +8926,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":25,
     "QUESTION_NUMBER":26,
@@ -8941,7 +8941,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":26,
     "QUESTION_NUMBER":1,
@@ -8956,7 +8956,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":26,
     "QUESTION_NUMBER":2,
@@ -8971,7 +8971,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":26,
     "QUESTION_NUMBER":3,
@@ -8986,7 +8986,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":26,
     "QUESTION_NUMBER":4,
@@ -9001,7 +9001,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":26,
     "QUESTION_NUMBER":5,
@@ -9016,14 +9016,14 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":26,
     "QUESTION_NUMBER":6,
     "SEQUENCE":602,
     "BCQ_KEY":"40-26-06",
     "CORRECT_OPTION":"D",
-    "QUESTION":"How did the disciples react when the woman poured perfume on Jesus’ head? (26:8)",
+    "QUESTION":"How did the disciples react when the woman poured perfume on Jesus' head? (26:8)",
     "CHOICE_A":"They were impressed",
     "CHOICE_B":"They were angry",
     "CHOICE_C":"They were surprised",
@@ -9031,14 +9031,14 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":26,
     "QUESTION_NUMBER":7,
     "SEQUENCE":603,
     "BCQ_KEY":"40-26-07",
     "CORRECT_OPTION":"A",
-    "QUESTION":"How did the disciples think the fragrant oil poured on Jesus’ head should have been used? (26:9)",
+    "QUESTION":"How did the disciples think the fragrant oil poured on Jesus' head should have been used? (26:9)",
     "CHOICE_A":"The fragrant oil should have been sold and the money given to the poor.",
     "CHOICE_B":"The fragrant oil should have been poured on all of them.",
     "CHOICE_C":"The fragrant oil should not have been used around men.",
@@ -9046,7 +9046,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":26,
     "QUESTION_NUMBER":8,
@@ -9061,7 +9061,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":26,
     "QUESTION_NUMBER":9,
@@ -9076,14 +9076,14 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":26,
     "QUESTION_NUMBER":10,
     "SEQUENCE":606,
     "BCQ_KEY":"40-26-10",
     "CORRECT_OPTION":"C",
-    "QUESTION":"Where would the deed of the woman who poured fragrant oil on Jesus’ head be told? (26:13)",
+    "QUESTION":"Where would the deed of the woman who poured fragrant oil on Jesus' head be told? (26:13)",
     "CHOICE_A":"In the temple",
     "CHOICE_B":"Among the disciples",
     "CHOICE_C":"Wherever this gospel was preached in the whole world",
@@ -9091,7 +9091,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":26,
     "QUESTION_NUMBER":11,
@@ -9106,7 +9106,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":26,
     "QUESTION_NUMBER":12,
@@ -9121,7 +9121,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":26,
     "QUESTION_NUMBER":13,
@@ -9136,7 +9136,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":26,
     "QUESTION_NUMBER":14,
@@ -9151,7 +9151,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":26,
     "QUESTION_NUMBER":15,
@@ -9166,7 +9166,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":26,
     "QUESTION_NUMBER":16,
@@ -9181,7 +9181,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":26,
     "QUESTION_NUMBER":17,
@@ -9196,7 +9196,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":26,
     "QUESTION_NUMBER":18,
@@ -9211,14 +9211,14 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":26,
     "QUESTION_NUMBER":19,
     "SEQUENCE":615,
     "BCQ_KEY":"40-26-19",
     "CORRECT_OPTION":"C",
-    "QUESTION":"When Jesus said one of the disciples would betray Him, who said, “Rabbi, is it I?” (26:25)",
+    "QUESTION":"When Jesus said one of the disciples would betray Him, who said, 'Rabbi, is it I?' (26:25)",
     "CHOICE_A":"Peter",
     "CHOICE_B":"All the disciples",
     "CHOICE_C":"Judas",
@@ -9226,7 +9226,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":26,
     "QUESTION_NUMBER":20,
@@ -9241,7 +9241,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":26,
     "QUESTION_NUMBER":21,
@@ -9256,7 +9256,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":26,
     "QUESTION_NUMBER":22,
@@ -9271,7 +9271,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":26,
     "QUESTION_NUMBER":23,
@@ -9286,7 +9286,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":26,
     "QUESTION_NUMBER":24,
@@ -9301,7 +9301,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":26,
     "QUESTION_NUMBER":25,
@@ -9316,7 +9316,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":26,
     "QUESTION_NUMBER":26,
@@ -9326,12 +9326,12 @@ var deck =
     "QUESTION":"Where did Jesus say He would drink the fruit of the vine? (26:29)",
     "CHOICE_A":"On the cross",
     "CHOICE_B":"In Jerusalem",
-    "CHOICE_C":"In His Father’s kingdom",
+    "CHOICE_C":"In His Father's kingdom",
     "CHOICE_D":"On the Judgment Day",
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":26,
     "QUESTION_NUMBER":27,
@@ -9346,7 +9346,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":26,
     "QUESTION_NUMBER":28,
@@ -9361,7 +9361,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":26,
     "QUESTION_NUMBER":29,
@@ -9376,7 +9376,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":26,
     "QUESTION_NUMBER":30,
@@ -9391,7 +9391,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":26,
     "QUESTION_NUMBER":31,
@@ -9406,7 +9406,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":26,
     "QUESTION_NUMBER":32,
@@ -9421,7 +9421,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":26,
     "QUESTION_NUMBER":33,
@@ -9436,7 +9436,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":26,
     "QUESTION_NUMBER":34,
@@ -9451,7 +9451,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":26,
     "QUESTION_NUMBER":35,
@@ -9466,7 +9466,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":26,
     "QUESTION_NUMBER":36,
@@ -9481,7 +9481,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":26,
     "QUESTION_NUMBER":37,
@@ -9489,14 +9489,14 @@ var deck =
     "BCQ_KEY":"40-26-37",
     "CORRECT_OPTION":"D",
     "QUESTION":"What did Jesus pray while in the garden? (26:39)",
-    "CHOICE_A":"“My Father, Thy will be done.”",
-    "CHOICE_B":"“My Father, let this cup pass from Me.”",
-    "CHOICE_C":"“My Father, let this cup pass from Me; yet not as I will, but as Thou wilt.”",
-    "CHOICE_D":"“My Father, if it is possible, let this cup pass from Me; nevertheless, not as I will, but as you will.”",
+    "CHOICE_A":"'My Father, Thy will be done.'",
+    "CHOICE_B":"'My Father, let this cup pass from Me.'",
+    "CHOICE_C":"'My Father, let this cup pass from Me; yet not as I will, but as Thou wilt.'",
+    "CHOICE_D":"'My Father, if it is possible, let this cup pass from Me; nevertheless, not as I will, but as you will.'",
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":26,
     "QUESTION_NUMBER":38,
@@ -9511,7 +9511,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":26,
     "QUESTION_NUMBER":39,
@@ -9526,14 +9526,14 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":26,
     "QUESTION_NUMBER":40,
     "SEQUENCE":636,
     "BCQ_KEY":"40-26-40",
     "CORRECT_OPTION":"C",
-    "QUESTION":"To whom did Jesus say, “What, could you not watch with Me one hour?” (26:40)",
+    "QUESTION":"To whom did Jesus say, 'What, could you not watch with Me one hour?' (26:40)",
     "CHOICE_A":"Peter, James, and John",
     "CHOICE_B":"The eleven disciples",
     "CHOICE_C":"Peter",
@@ -9541,7 +9541,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":26,
     "QUESTION_NUMBER":41,
@@ -9556,7 +9556,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":26,
     "QUESTION_NUMBER":42,
@@ -9571,7 +9571,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":26,
     "QUESTION_NUMBER":43,
@@ -9586,7 +9586,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":26,
     "QUESTION_NUMBER":44,
@@ -9601,7 +9601,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":26,
     "QUESTION_NUMBER":45,
@@ -9616,7 +9616,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":26,
     "QUESTION_NUMBER":46,
@@ -9631,7 +9631,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":26,
     "QUESTION_NUMBER":47,
@@ -9646,7 +9646,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":26,
     "QUESTION_NUMBER":48,
@@ -9661,7 +9661,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":26,
     "QUESTION_NUMBER":49,
@@ -9676,7 +9676,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":26,
     "QUESTION_NUMBER":50,
@@ -9691,7 +9691,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":26,
     "QUESTION_NUMBER":51,
@@ -9706,7 +9706,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":26,
     "QUESTION_NUMBER":52,
@@ -9721,7 +9721,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":26,
     "QUESTION_NUMBER":53,
@@ -9736,7 +9736,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":26,
     "QUESTION_NUMBER":54,
@@ -9751,7 +9751,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":26,
     "QUESTION_NUMBER":55,
@@ -9766,7 +9766,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":26,
     "QUESTION_NUMBER":56,
@@ -9781,7 +9781,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":26,
     "QUESTION_NUMBER":57,
@@ -9789,14 +9789,14 @@ var deck =
     "BCQ_KEY":"40-26-57",
     "CORRECT_OPTION":"C",
     "QUESTION":"What did Jesus say when asked by the high priest if He was the Christ, the Son of God? (26:63-64)",
-    "CHOICE_A":"He said, “Yes, I am”",
-    "CHOICE_B":"He said, “What do you think?”",
-    "CHOICE_C":"He said, “It is as you said”",
+    "CHOICE_A":"He said, 'Yes, I am'",
+    "CHOICE_B":"He said, 'What do you think?'",
+    "CHOICE_C":"He said, 'It is as you said'",
     "CHOICE_D":"He said nothing",
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":26,
     "QUESTION_NUMBER":58,
@@ -9811,14 +9811,14 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":26,
     "QUESTION_NUMBER":59,
     "SEQUENCE":655,
     "BCQ_KEY":"40-26-59",
     "CORRECT_OPTION":"B",
-    "QUESTION":"When Jesus said, “You shall see the Son of Man sitting at the right hand of the power, and coming on the clouds of heaven” what did the high priest do? (26:64-65)",
+    "QUESTION":"When Jesus said, 'You shall see the Son of Man sitting at the right hand of the power, and coming on the clouds of heaven' what did the high priest do? (26:64-65)",
     "CHOICE_A":"Laugh",
     "CHOICE_B":"Tore his clothes and accused Jesus of blasphemy",
     "CHOICE_C":"Accuse Jesus of blasphemy",
@@ -9826,7 +9826,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":26,
     "QUESTION_NUMBER":60,
@@ -9841,7 +9841,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":26,
     "QUESTION_NUMBER":61,
@@ -9856,7 +9856,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":26,
     "QUESTION_NUMBER":62,
@@ -9866,12 +9866,12 @@ var deck =
     "QUESTION":"What did bystanders in the courtyard of the high priest say proved Peter was a follower of Jesus? (26:73)",
     "CHOICE_A":"They saw Peter with Jesus.",
     "CHOICE_B":"They heard Peter speak of Jesus.",
-    "CHOICE_C":"Peter’s speech",
+    "CHOICE_C":"Peter's speech",
     "CHOICE_D":"The testimony of witnesses",
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":26,
     "QUESTION_NUMBER":63,
@@ -9886,7 +9886,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":26,
     "QUESTION_NUMBER":64,
@@ -9901,7 +9901,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":27,
     "QUESTION_NUMBER":1,
@@ -9916,7 +9916,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":27,
     "QUESTION_NUMBER":2,
@@ -9931,7 +9931,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":27,
     "QUESTION_NUMBER":3,
@@ -9946,7 +9946,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":27,
     "QUESTION_NUMBER":4,
@@ -9961,7 +9961,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":27,
     "QUESTION_NUMBER":5,
@@ -9976,7 +9976,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":27,
     "QUESTION_NUMBER":6,
@@ -9986,12 +9986,12 @@ var deck =
     "QUESTION":"Where did Judas throw the silver he received for betraying Jesus? (27:5)",
     "CHOICE_A":"In the streets",
     "CHOICE_B":"In the courtyard",
-    "CHOICE_C":"In Pilate’s house",
+    "CHOICE_C":"In Pilate's house",
     "CHOICE_D":"In the temple",
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":27,
     "QUESTION_NUMBER":7,
@@ -10006,7 +10006,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":27,
     "QUESTION_NUMBER":8,
@@ -10014,21 +10014,21 @@ var deck =
     "BCQ_KEY":"40-27-08",
     "CORRECT_OPTION":"A",
     "QUESTION":"How did the chief priests use the silver pieces returned by Judas? (27:7)",
-    "CHOICE_A":"They bought the Potter’s Field",
+    "CHOICE_A":"They bought the Potter's Field",
     "CHOICE_B":"They gave it to the poor",
     "CHOICE_C":"They placed it in the temple treasury",
     "CHOICE_D":"They kept it for themselves",
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":27,
     "QUESTION_NUMBER":9,
     "SEQUENCE":669,
     "BCQ_KEY":"40-27-09",
     "CORRECT_OPTION":"C",
-    "QUESTION":"What was the Potter’s Field also called? (27:8)",
+    "QUESTION":"What was the Potter's Field also called? (27:8)",
     "CHOICE_A":"The Land of the Dead",
     "CHOICE_B":"The Field of Strangers",
     "CHOICE_C":"The Field of Blood",
@@ -10036,14 +10036,14 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":27,
     "QUESTION_NUMBER":10,
     "SEQUENCE":670,
     "BCQ_KEY":"40-27-10",
     "CORRECT_OPTION":"A",
-    "QUESTION":"Who prophesied the purchase of the Potter’s Field? (27:9)",
+    "QUESTION":"Who prophesied the purchase of the Potter's Field? (27:9)",
     "CHOICE_A":"Jeremiah",
     "CHOICE_B":"Isaiah",
     "CHOICE_C":"Jonah",
@@ -10051,22 +10051,22 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":27,
     "QUESTION_NUMBER":11,
     "SEQUENCE":671,
     "BCQ_KEY":"40-27-11",
     "CORRECT_OPTION":"B",
-    "QUESTION":"What did Jesus say when the governor asked, “Are you the King of the Jews?” (27:11)",
+    "QUESTION":"What did Jesus say when the governor asked, 'Are you the King of the Jews?' (27:11)",
     "CHOICE_A":"He spoke not a word",
-    "CHOICE_B":"He said, “It is as you say”",
-    "CHOICE_C":"He said, “I will not answer your question”",
-    "CHOICE_D":"He said, “I am innocent of any wrongdoing”",
+    "CHOICE_B":"He said, 'It is as you say'",
+    "CHOICE_C":"He said, 'I will not answer your question'",
+    "CHOICE_D":"He said, 'I am innocent of any wrongdoing'",
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":27,
     "QUESTION_NUMBER":12,
@@ -10075,13 +10075,13 @@ var deck =
     "CORRECT_OPTION":"A",
     "QUESTION":"What did Jesus say when the chief priests and elders accused Him before Pilate? (27:12)",
     "CHOICE_A":"He answered nothing",
-    "CHOICE_B":"He said, “My Father knows what is true”",
-    "CHOICE_C":"He said, “They are false witnesses”",
-    "CHOICE_D":"He said, “You will know them by their fruits”",
+    "CHOICE_B":"He said, 'My Father knows what is true'",
+    "CHOICE_C":"He said, 'They are false witnesses'",
+    "CHOICE_D":"He said, 'You will know them by their fruits'",
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":27,
     "QUESTION_NUMBER":13,
@@ -10096,14 +10096,14 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":27,
     "QUESTION_NUMBER":14,
     "SEQUENCE":674,
     "BCQ_KEY":"40-27-14",
     "CORRECT_OPTION":"B",
-    "QUESTION":"When was it Pilate’s custom to release a prisoner? (27:15)",
+    "QUESTION":"When was it Pilate's custom to release a prisoner? (27:15)",
     "CHOICE_A":"On his birthday",
     "CHOICE_B":"At the Feast",
     "CHOICE_C":"On the Sabbath",
@@ -10111,7 +10111,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":27,
     "QUESTION_NUMBER":15,
@@ -10126,14 +10126,14 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":27,
     "QUESTION_NUMBER":16,
     "SEQUENCE":676,
     "BCQ_KEY":"40-27-16",
     "CORRECT_OPTION":"B",
-    "QUESTION":"Why did Pilate’s wife advise him to have nothing to do with Jesus? (27:19)",
+    "QUESTION":"Why did Pilate's wife advise him to have nothing to do with Jesus? (27:19)",
     "CHOICE_A":"She believed that he was the Christ",
     "CHOICE_B":"She suffered many things in a dream because of Him",
     "CHOICE_C":"She felt sorry for Him",
@@ -10141,7 +10141,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":27,
     "QUESTION_NUMBER":17,
@@ -10156,7 +10156,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":27,
     "QUESTION_NUMBER":18,
@@ -10171,7 +10171,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":27,
     "QUESTION_NUMBER":19,
@@ -10179,14 +10179,14 @@ var deck =
     "BCQ_KEY":"40-27-19",
     "CORRECT_OPTION":"C",
     "QUESTION":"When the governor asked the multitude what evil Jesus had done that deserved crucifixion, what did they say? (27:23)",
-    "CHOICE_A":"“He has blasphemed against God”",
-    "CHOICE_B":"“He is not the Son of God”",
-    "CHOICE_C":"“Let Him be crucified”",
-    "CHOICE_D":"“He is not our Savior”",
+    "CHOICE_A":"'He has blasphemed against God'",
+    "CHOICE_B":"'He is not the Son of God'",
+    "CHOICE_C":"'Let Him be crucified'",
+    "CHOICE_D":"'He is not our Savior'",
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":27,
     "QUESTION_NUMBER":20,
@@ -10201,7 +10201,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":27,
     "QUESTION_NUMBER":21,
@@ -10216,7 +10216,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":27,
     "QUESTION_NUMBER":22,
@@ -10231,7 +10231,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":27,
     "QUESTION_NUMBER":23,
@@ -10246,7 +10246,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":27,
     "QUESTION_NUMBER":24,
@@ -10261,14 +10261,14 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":27,
     "QUESTION_NUMBER":25,
     "SEQUENCE":685,
     "BCQ_KEY":"40-27-25",
     "CORRECT_OPTION":"A",
-    "QUESTION":"Who mocked Jesus saying, “Hail, King of the Jews?” (27:27-29)",
+    "QUESTION":"Who mocked Jesus saying, 'Hail, King of the Jews?' (27:27-29)",
     "CHOICE_A":"The soldiers of the governor",
     "CHOICE_B":"The chief priests",
     "CHOICE_C":"The elders",
@@ -10276,7 +10276,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":27,
     "QUESTION_NUMBER":26,
@@ -10291,7 +10291,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":27,
     "QUESTION_NUMBER":27,
@@ -10306,7 +10306,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":27,
     "QUESTION_NUMBER":28,
@@ -10321,7 +10321,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":27,
     "QUESTION_NUMBER":29,
@@ -10336,7 +10336,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":27,
     "QUESTION_NUMBER":30,
@@ -10351,7 +10351,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":27,
     "QUESTION_NUMBER":31,
@@ -10366,7 +10366,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":27,
     "QUESTION_NUMBER":32,
@@ -10381,7 +10381,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":27,
     "QUESTION_NUMBER":33,
@@ -10396,7 +10396,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":27,
     "QUESTION_NUMBER":34,
@@ -10411,7 +10411,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":27,
     "QUESTION_NUMBER":35,
@@ -10426,7 +10426,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":27,
     "QUESTION_NUMBER":36,
@@ -10441,7 +10441,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":27,
     "QUESTION_NUMBER":37,
@@ -10456,7 +10456,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":27,
     "QUESTION_NUMBER":38,
@@ -10471,7 +10471,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":27,
     "QUESTION_NUMBER":39,
@@ -10486,14 +10486,14 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":27,
     "QUESTION_NUMBER":40,
     "SEQUENCE":700,
     "BCQ_KEY":"40-27-40",
     "CORRECT_OPTION":"B",
-    "QUESTION":"When did Jesus cry out, “ELI, ELI, LAMA SABACHTHANI?” (27:46)",
+    "QUESTION":"When did Jesus cry out, 'ELI, ELI, LAMA SABACHTHANI?' (27:46)",
     "CHOICE_A":"About the sixth hour",
     "CHOICE_B":"About the ninth hour",
     "CHOICE_C":"About the third hour",
@@ -10501,14 +10501,14 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":27,
     "QUESTION_NUMBER":41,
     "SEQUENCE":701,
     "BCQ_KEY":"40-27-41",
     "CORRECT_OPTION":"D",
-    "QUESTION":"When Jesus cried out, “ELI, ELI, LAMA SABACHTHANI,” who did some think He was calling? (27:47)",
+    "QUESTION":"When Jesus cried out, 'ELI, ELI, LAMA SABACHTHANI,' who did some think He was calling? (27:47)",
     "CHOICE_A":"God",
     "CHOICE_B":"Mary",
     "CHOICE_C":"Joseph",
@@ -10516,7 +10516,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":27,
     "QUESTION_NUMBER":42,
@@ -10531,14 +10531,14 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":27,
     "QUESTION_NUMBER":43,
     "SEQUENCE":703,
     "BCQ_KEY":"40-27-43",
     "CORRECT_OPTION":"C",
-    "QUESTION":"When Jesus cried out, “ELI, ELI, LAMA SABACHTHANI,” what did one person do? (27:48)",
+    "QUESTION":"When Jesus cried out, 'ELI, ELI, LAMA SABACHTHANI,' what did one person do? (27:48)",
     "CHOICE_A":"Pray to God",
     "CHOICE_B":"Believe in Jesus",
     "CHOICE_C":"Offered Jesus a sponge of sour wine to drink",
@@ -10546,7 +10546,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":27,
     "QUESTION_NUMBER":44,
@@ -10561,14 +10561,14 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":27,
     "QUESTION_NUMBER":45,
     "SEQUENCE":705,
     "BCQ_KEY":"40-27-45",
     "CORRECT_OPTION":"A",
-    "QUESTION":"Who said, “Truly this was the Son of God?” (27:54)",
+    "QUESTION":"Who said, 'Truly this was the Son of God?' (27:54)",
     "CHOICE_A":"The centurion and guards who kept guard over Jesus",
     "CHOICE_B":"Those who had mocked Jesus",
     "CHOICE_C":"Pilate",
@@ -10576,7 +10576,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":27,
     "QUESTION_NUMBER":46,
@@ -10591,7 +10591,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":27,
     "QUESTION_NUMBER":47,
@@ -10606,7 +10606,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":27,
     "QUESTION_NUMBER":48,
@@ -10621,7 +10621,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":27,
     "QUESTION_NUMBER":49,
@@ -10636,7 +10636,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":27,
     "QUESTION_NUMBER":50,
@@ -10651,7 +10651,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":27,
     "QUESTION_NUMBER":51,
@@ -10666,7 +10666,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":27,
     "QUESTION_NUMBER":52,
@@ -10681,7 +10681,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":27,
     "QUESTION_NUMBER":53,
@@ -10696,7 +10696,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":28,
     "QUESTION_NUMBER":1,
@@ -10711,7 +10711,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":28,
     "QUESTION_NUMBER":2,
@@ -10726,7 +10726,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":28,
     "QUESTION_NUMBER":3,
@@ -10741,7 +10741,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":28,
     "QUESTION_NUMBER":4,
@@ -10756,7 +10756,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":28,
     "QUESTION_NUMBER":5,
@@ -10771,7 +10771,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":28,
     "QUESTION_NUMBER":6,
@@ -10786,7 +10786,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":28,
     "QUESTION_NUMBER":7,
@@ -10801,7 +10801,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":28,
     "QUESTION_NUMBER":8,
@@ -10816,7 +10816,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":28,
     "QUESTION_NUMBER":9,
@@ -10831,7 +10831,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":28,
     "QUESTION_NUMBER":10,
@@ -10846,7 +10846,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":28,
     "QUESTION_NUMBER":11,
@@ -10861,7 +10861,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":28,
     "QUESTION_NUMBER":12,
@@ -10876,7 +10876,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":28,
     "QUESTION_NUMBER":13,
@@ -10891,7 +10891,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":28,
     "QUESTION_NUMBER":14,
@@ -10906,7 +10906,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":28,
     "QUESTION_NUMBER":15,
@@ -10914,14 +10914,14 @@ var deck =
     "BCQ_KEY":"40-28-15",
     "CORRECT_OPTION":"B",
     "QUESTION":"What story did the elders instruct the soldiers to tell? (28:13)",
-    "CHOICE_A":"Jesus’ disciples came by day and overtook them",
-    "CHOICE_B":"Jesus’ disciples came by night and stole Jesus away while we slept",
+    "CHOICE_A":"Jesus' disciples came by day and overtook them",
+    "CHOICE_B":"Jesus' disciples came by night and stole Jesus away while we slept",
     "CHOICE_C":"Mary and Mary Magdalene removed the stone",
     "CHOICE_D":"An angel from heaven appeared to them",
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":28,
     "QUESTION_NUMBER":16,
@@ -10936,7 +10936,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":28,
     "QUESTION_NUMBER":17,
@@ -10951,7 +10951,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":28,
     "QUESTION_NUMBER":18,
@@ -10966,7 +10966,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":28,
     "QUESTION_NUMBER":19,
@@ -10981,7 +10981,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":28,
     "QUESTION_NUMBER":20,
@@ -10996,7 +10996,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":28,
     "QUESTION_NUMBER":21,
@@ -11011,7 +11011,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":28,
     "QUESTION_NUMBER":22,
@@ -11026,7 +11026,7 @@ var deck =
     "CARD_SET":"LTLL-2016-BB"
   },
   {
-    "BOOK":"MATTHEW",
+    "BOOK":"Matthew",
     "BOOK_NUMBER":40,
     "CHAPTER":28,
     "QUESTION_NUMBER":23,
