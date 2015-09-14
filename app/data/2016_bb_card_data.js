@@ -937,7 +937,7 @@ var deck =
     "QUESTION_NUMBER":3,
     "SEQUENCE":63,
     "BCQ_KEY":"40-03-03",
-    "CORRECT_OPTION":"A",
+    "CORRECT_OPTION":"B",
     "QUESTION":"Who was crying in the wilderness? (3:3)",
     "CHOICE_A":"Rachel",
     "CHOICE_B":"John the Baptist",
