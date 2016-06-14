@@ -4826,7 +4826,7 @@ var deck =
     "QUESTION":"The people in Jesus' hometown wanted to know where He got His what? (13:54)",
     "CHOICE_A":"Skill and wisdom",
     "CHOICE_B":"Knowledge and wisdom",
-    "CHOICE_C":"Wisdom and might works",
+    "CHOICE_C":"Wisdom and mighty works",
     "CHOICE_D":"Knowledge and understanding",
     "CARD_SET":"LTLL-2016-BB"
   },

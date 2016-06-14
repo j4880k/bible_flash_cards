@@ -61,7 +61,7 @@ We will be ultimately creating a csv in which we will later insert some addition
 4. Get all the answers stacked "\n ([A-D]). " => ","
 5. get rid of some whitespace "\n\n" => "\n"
 6. Get our single digit chapter headers into pastable strings "(MATTHEW)( )([0-9])\n" => "$1",40,$3,
-7. Get our single digit chapter headers into pastable strings "(MATTHEW)( )([0-9])([0-9])\n" => "$1",40,$3,
+7. Get our single digit chapter headers into pastable strings "(MATTHEW)( )([0-9])([0-9])\n" => "$1",40,$3$4,
 8. Create the BCQ key column for all double digit existing chapters/question_nums "^("MATTHEW"),(40),([0-9])([0-9]),([0-9])([0-9])," => $1,$2,$3$4,$5$6,"$2-$3$4-$5$6",
 9. Create BCQ key column for all double digit chapters with single digit question_nums ^("MATTHEW"),(40),([0-9])([0-9]),([0-9]), => $1,$2,$3$4,$5,"$2-$3$4-0$5",
 10. Create BCQ key column for all single digit chapters with double digit question_nums ^("MATTHEW"),(40),([0-9]),([0-9])([0-9]), => $1,$2,$3,$4$5,"$2-0$3-$4$5",
