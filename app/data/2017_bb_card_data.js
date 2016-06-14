@@ -1,3 +1,4 @@
+var deck = 
 [
     {
         "BOOK": "Ruth",
