@@ -3692,7 +3692,7 @@ var deck =
     },
     {
         "BOOK": "Esther",
-        "BOOK_NUMBER": "18",
+        "BOOK_NUMBER": "17",
         "CHAPTER": "10",
         "QUESTION_NUMBER": "01",
         "SEQUENCE": "247",
@@ -3707,7 +3707,7 @@ var deck =
     },
     {
         "BOOK": "Esther",
-        "BOOK_NUMBER": "18",
+        "BOOK_NUMBER": "17",
         "CHAPTER": "10",
         "QUESTION_NUMBER": "02",
         "SEQUENCE": "248",
