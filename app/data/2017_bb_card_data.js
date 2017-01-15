@@ -5243,7 +5243,7 @@ var deck =
         "SEQUENCE": "350",
         "BCQ_KEY": "18-09-10",
         "CORRECT_OPTION": "D",
-        "QUESTION": "According to Job 9:23, what does Job says that God laughs at?",
+        "QUESTION": "According to Job 9:23, what does Job say that God laughs at?",
         "CHOICE_A": "Those who mock Him",
         "CHOICE_B": "The wicked",
         "CHOICE_C": "The just",
@@ -5262,7 +5262,7 @@ var deck =
         "CHOICE_A": "Swift ships",
         "CHOICE_B": "A raging fire",
         "CHOICE_C": "A runner",
-        "CHOICE_D": "An eagle swooping on its pray",
+        "CHOICE_D": "An eagle swooping on its prey",
         "CARD_SET": "LTLL-2017-BB"
     },
     {
@@ -5558,7 +5558,7 @@ var deck =
         "SEQUENCE": "371",
         "BCQ_KEY": "18-12-02",
         "CORRECT_OPTION": "B",
-        "QUESTION": "In Job 12:4, Job referrers to himself as one mocked by whom?",
+        "QUESTION": "In Job 12:4, Job refers to himself as one mocked by whom?",
         "CHOICE_A": "His enemies",
         "CHOICE_B": "His friends",
         "CHOICE_C": "His Lord",
@@ -8768,7 +8768,7 @@ var deck =
         "SEQUENCE": "585",
         "BCQ_KEY": "18-33-04",
         "CORRECT_OPTION": "B",
-        "QUESTION": "In Job 33:8-9, what does Elihu says that he has heard the sound of Job's word saying?",
+        "QUESTION": "In Job 33:8-9, What does Elihu say that he has heard the sound of Job's word saying?",
         "CHOICE_A": "I am pure, without enmity",
         "CHOICE_B": "I am pure, without transgression",
         "CHOICE_C": "I am pure, without hope",
@@ -8997,7 +8997,7 @@ var deck =
         "CHOICE_A": "His humility ",
         "CHOICE_B": "His generosity ",
         "CHOICE_C": "His work",
-        "CHOICE_D": " His heart",
+        "CHOICE_D": "His heart",
         "CARD_SET": "LTLL-2017-BB"
     },
     {
@@ -9012,7 +9012,7 @@ var deck =
         "CHOICE_A": "Full of wickedness ",
         "CHOICE_B": "The work of His hands ",
         "CHOICE_C": "Worthless",
-        "CHOICE_D": " Full of reproach",
+        "CHOICE_D": "Full of reproach",
         "CARD_SET": "LTLL-2017-BB"
     },
     {
