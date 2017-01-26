@@ -25,7 +25,7 @@
 			
 			// mousetrap for key bindings 
 			// Mousetrap.bind('?', function(e) {
-			Mousetrap.bind('¿', function(e) {
+			Mousetrap.bind('A', function(e) {
 				var flashcards = $scope.flashcards;
 				if( flashcards.card != null && flashcards.card != 'undefined'){
 					 flashcards.toggle_answer_hint();
