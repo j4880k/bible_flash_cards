@@ -2484,7 +2484,7 @@ var deck =
         "BCQ_KEY": "17-05-07",
         "CORRECT_OPTION": "A",
         "QUESTION": "According to Esther 5:7-8, what was Esther's second petition and request?",
-        "CHOICE_A": "To let the king and Haman to come to another banquet",
+        "CHOICE_A": "To let the king and Haman come to another banquet",
         "CHOICE_B": "To find favor in the sight of the king",
         "CHOICE_C": "For the king to grant her petition and fulfill her requests",
         "CHOICE_D": "For the king to wait until tomorrow to do as he had said",
