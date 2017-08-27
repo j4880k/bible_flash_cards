@@ -5333,7 +5333,7 @@ var deck =
    "SEQUENCE": 356,
    "BCQ_KEY": "46-15-25",
    "CORRECT_OPTION": "D",
-   "QUESTION": "In 1 Corinthians 15:51-52, Paul tells us thatwe shall not all sleep, but we shall all be ________ in a moment, in a twinkling of an eye, at the last trumpet.",
+   "QUESTION": "In 1 Corinthians 15:51-52, Paul tells us that we shall not all sleep, but we shall all be ________ in a moment, in a twinkling of an eye, at the last trumpet.",
    "CHOICE_A": "Awake",
    "CHOICE_B": "Unconscious",
    "CHOICE_C": "Aware",
