@@ -473,7 +473,7 @@ var deck =
    "SEQUENCE": 32,
    "BCQ_KEY": "46-01-32",
    "CORRECT_OPTION": "D",
-   "QUESTION": "According to 1 Corinthians 1:23-24, we preach to those who are called, both Jews and Greeks, Christ the power of God and the of God.",
+   "QUESTION": "According to 1 Corinthians 1:23-24, we preach to those who are called, both Jews and Greeks, Christ the power of God and the ________ of God.",
    "CHOICE_A": "Mercy",
    "CHOICE_B": "Grace",
    "CHOICE_C": "Glory",
