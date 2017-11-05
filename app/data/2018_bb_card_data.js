@@ -4763,7 +4763,7 @@ var deck =
    "SEQUENCE": 318,
    "BCQ_KEY": "46-14-11",
    "CORRECT_OPTION": "C",
-   "QUESTION": "In 1 Corinthians 14:16, Paul asks, 'If you bless with the spirit, how will he who occupiesthe place of the uninformed say ________ at your giving of thanks, since he does not understand what you say?'",
+   "QUESTION": "In 1 Corinthians 14:16, Paul asks, 'If you bless with the spirit, how will he who occupies the place of the uninformed say ________ at your giving of thanks, since he does not understand what you say?'",
    "CHOICE_A": "Great",
    "CHOICE_B": "Wonderful",
    "CHOICE_C": "Amen",
