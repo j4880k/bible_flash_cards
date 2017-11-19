@@ -5993,7 +5993,7 @@ var deck =
    "SEQUENCE": 400,
    "BCQ_KEY": "47-03-04",
    "CORRECT_OPTION": "B",
-   "QUESTION": "2 Corinthians 3:5 says that our is from God.",
+   "QUESTION": "2 Corinthians 3:5 says that our ________ is from God.",
    "CHOICE_A": "Faith",
    "CHOICE_B": "Sufficiency",
    "CHOICE_C": "Dependency",
