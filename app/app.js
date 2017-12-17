@@ -103,6 +103,7 @@
 				this.enable_answer_options=!this.card.answered;
 				this.answer_hint = ""; 
 				this.shown = false;
+					// scramble_answers();
 			};
 			
 			this.get_next_card = function() {
@@ -112,6 +113,7 @@
 					this.enable_answer_options=!this.card.answered;
 					this.answer_hint = "";
 					this.shown = false;
+					// scramble_answers();
 				}
 				
 			};
@@ -122,8 +124,25 @@
 					this.enable_answer_options=!this.card.answered;
 					this.answer_hint = "";
 					this.shown = false;
+					
+					// scramble_answers();
 				}
 			};
+
+			function scramble_answers(){
+				this.choice_letter_map = ["A","B","C","D"];
+				this.choice_text_map = [this.card.CHOICE_A,this.card.CHOICE_B,this.card.CHOICE_C,this.card.CHOICE_D];
+				this.original_correct_option = this.card.CORRECT_OPTION + "";
+				this.original_correct_answer_text = this.card.original_choice_text_map[choice_letter_map.indexOf(this.original_correct_option)];
+				this.shuffled_answers = shuffle([this.card.CHOICE_A+"",this.card.CHOICE_B+"",this.card.CHOICE_C+"",this.card.CHOICE_D+""]);
+				this.modified_correct_answer = this.shuffled_answers.indexOf(original_correct_answer);
+				CHOICE_A = this.shuffled_answers[0];
+				CHOICE_B = this.shuffled_answers[1];
+				CHOICE_C = this.shuffled_answers[2];
+				CHOICE_D = this.shuffled_answers[3];
+				CORRECT_OPTION = choice_letter_map[this.shuffled_answers.indexOf(this.original_correct_answer_text)];
+				return [CHOICE_A,CHOICE_B,CHOICE_C,CHOICE_D,CORRECT_OPTION];
+			}
 			
 			this.correct_option_text = function(selected_option) {
 				selected_option = typeof selected_option !== 'undefined' ? selected_option : null;
@@ -230,6 +249,33 @@
 					this.enable_answer_options = !forced_setting;
 				};
 				return true;
+			}
+			
+			/*	shuffle() : 2017.11.09
+				Credit to SO
+				https://stackoverflow.com/questions/2450954/how-to-randomize-shuffle-a-javascript-array
+				Used like so
+				var arr = [2, 11, 37, 42];
+				arr = shuffle(arr);
+				console.log(arr);
+			*/
+			function shuffle(array) {
+			  var currentIndex = array.length, temporaryValue, randomIndex;
+
+			  // While there remain elements to shuffle...
+			  while (0 !== currentIndex) {
+
+			    // Pick a remaining element...
+			    randomIndex = Math.floor(Math.random() * currentIndex);
+			    currentIndex -= 1;
+
+			    // And swap it with the current element.
+			    temporaryValue = array[currentIndex];
+			    array[currentIndex] = array[randomIndex];
+			    array[randomIndex] = temporaryValue;
+			  }
+
+			  return array;
 			}
 			
 			this.fisher_yates_shuffle_available_questions = function() {

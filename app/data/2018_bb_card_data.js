@@ -8633,7 +8633,7 @@ var deck =
    "SEQUENCE": 576,
    "BCQ_KEY": "47-11-25",
    "CORRECT_OPTION": "C",
-   "QUESTION": "In 2 Corinthians 11:20, which of these was <b>NOT</b> among the actions that Paul mentions that the Corinthians were willing to put up with?",
+   "QUESTION": "In 2 Corinthians 11:20, which of these was NOT among the actions that Paul mentions that the Corinthians were willing to put up with?",
    "CHOICE_A": "Bringing them into bondage and devouring them",
    "CHOICE_B": "Taking from them and striking them in the face",
    "CHOICE_C": "Stoning Paul and driving him from the city",
