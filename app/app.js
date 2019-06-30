@@ -10,7 +10,7 @@
 			this.available_books = [];
 			this.available_questions = [];
 			// this.available_decks = [{"code":"LTLL-2017-BB","label":"LTLL 2017"}];
-			this.available_decks = [{"code":"LTLL-2018-BB","label":"LTLL 2018"}];
+			this.available_decks = [{"code":"LTLL-2019-BB","label":"LTLL 2019"}];
 			this.selected_deck = "LTLL-2018-BB";
 			this.chosen_book_chapters = [];
 			this.chosen_set = "";
