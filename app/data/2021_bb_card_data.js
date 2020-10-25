@@ -322,7 +322,7 @@ var deck = [
    "SEQUENCE": 22,
    "BCQ_KEY": "58-01-22",
    "CORRECT_OPTION": "A",
-   "QUESTION": "According to Hebrews 1:9, who has anointed the Son?",
+   "QUESTION": "According to Hebrews 1:9, Who has anointed the Son?",
    "CHOICE_A": "God",
    "CHOICE_B": "The prophets",
    "CHOICE_C": "The disciples",
