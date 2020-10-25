@@ -10,8 +10,8 @@
 			this.available_books = [];
 			this.available_questions = [];
 			// this.available_decks = [{"code":"LTLL-2017-BB","label":"LTLL 2017"}];
-			this.available_decks = [{"code":"LTLL-2020-BB","label":"LTLL 2020"}];
-			this.selected_deck = "LTLL-2018-BB";
+			this.available_decks = [{"code":"LTLL-2021-BB","label":"LTLL 2021"}];
+			this.selected_deck = "LTLL-2021-BB";
 			this.chosen_book_chapters = [];
 			this.chosen_set = "";
 			this.active_card = 0;
